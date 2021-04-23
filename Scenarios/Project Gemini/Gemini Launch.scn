@@ -1,0 +1,30 @@
+BEGIN_DESC
+Launch Gemini from Cape Canaveral.
+END_DESC
+
+BEGIN_ENVIRONMENT
+  System Sol
+  Date MJD 38842.6000042940
+END_ENVIRONMENT
+
+BEGIN_FOCUS
+  Ship Gemini
+END_FOCUS
+
+BEGIN_CAMERA
+  TARGET Gemini
+  MODE Extern
+  POS 4.00 0.00 -101.41
+  TRACKMODE TargetRelative
+  FOV 50.00
+END_CAMERA
+
+
+BEGIN_SHIPS
+Gemini:Gemini_Titan
+  STATUS Landed Earth
+  BASE Cape Canaveral:1
+  HEADING 71.00
+  FUEL 1.000
+END
+END_SHIPS

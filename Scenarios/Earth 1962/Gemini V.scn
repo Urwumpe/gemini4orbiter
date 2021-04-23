@@ -1,0 +1,30 @@
+BEGIN_DESC
+Gordon Cooper and Pete Conrad makes the second long duration Gemini flight testing the new fuel cell technology and rendezvous techniques. Tap B to use the rendezvous beacon once in orbit.
+END_DESC
+
+BEGIN_ENVIRONMENT
+  System Sol_1962
+  Date MJD 38984.5833373380
+END_ENVIRONMENT
+
+BEGIN_FOCUS
+  Ship GEMINI-V
+END_FOCUS
+
+BEGIN_CAMERA
+  TARGET GEMINI-V
+  MODE Extern
+  POS 4.00 0.00 -101.41
+  TRACKMODE TargetRelative
+  FOV 50.00
+END_CAMERA
+
+
+BEGIN_SHIPS
+GEMINI-V:Gemini_Titan
+  STATUS Landed Earth
+  BASE Cape Canaveral:14
+  HEADING 71.40
+  FUEL 1.000
+END
+END_SHIPS

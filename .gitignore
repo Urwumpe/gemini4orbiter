@@ -348,3 +348,6 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+Modules
+/Orbitersdk/lib/OrbIPCC.lib
+/Orbitersdk/lib/OrbiterSoundSDK.lib

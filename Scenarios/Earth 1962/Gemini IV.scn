@@ -1,0 +1,30 @@
+BEGIN_DESC
+Jim McDivitt and Ed White undertakes the first Gemini duration mission (4 days) and Ed White performs the first american space walk
+END_DESC
+
+BEGIN_ENVIRONMENT
+  System Sol_1962
+  Date MJD 38914.6354203819
+END_ENVIRONMENT
+
+BEGIN_FOCUS
+  Ship GEMINI-IV
+END_FOCUS
+
+BEGIN_CAMERA
+  TARGET GEMINI-IV
+  MODE Extern
+  POS 4.00 0.00 -101.41
+  TRACKMODE TargetRelative
+  FOV 50.00
+END_CAMERA
+
+
+BEGIN_SHIPS
+GEMINI-IV:Gemini_Titan
+  STATUS Landed Earth
+  BASE Cape Canaveral:14
+  HEADING 71.50
+  FUEL 1.000
+END
+END_SHIPS
