@@ -1764,3 +1764,481 @@ Modules
 /msvcr71.dll
 /orbiter.exe
 /readme.txt
+/Config/Vessels/ShuttlePBSDKDemo.cfg
+/Doc/OrbiterSound Documentation/OrbiterSound Documentation.html
+/Orbiter.cfg
+/Orbiter_NG.cfg
+/Scenarios/_OrbiterSound 5.0 demo/01- Welcome and learn the new MFD.scn
+/Scenarios/_OrbiterSound 5.0 demo/02- Atlantis launch with custom sound.scn
+/Scenarios/_OrbiterSound 5.0 demo/03- Squadron Take-Off.scn
+/Scenarios/_OrbiterSound 5.0 demo/04- Sound's 3D projection cone.scn
+/Scenarios/_OrbiterSound 5.0 demo/05- Silence cone above Mach one.scn
+/Scenarios/_OrbiterSound 5.0 demo/06- Reentry sound.scn
+/Scenarios/_OrbiterSound 5.0 demo/07- Planet Bases and Wind sounds.scn
+/Scenarios/_OrbiterSound 5.0 demo/08- Scenario Commands Review.scn
+/Scenarios/_OrbiterSound 5.0 demo/09- OrbiterSound update check.scn
+/Scenarios/_OrbiterSound 5.0 demo/10--- FAQ Why no sound on Mars anymore.scn
+/Scenarios/_OrbiterSound 5.0 demo/11--- Config file to add sound without coding.scn
+/Scenarios/_OrbiterSound 5.0 demo/12--- SDK C++ and config demo.scn
+/Scenarios/_OrbiterSound 5.0 demo/Description.txt
+/Sound/Mp3/Classical - Public Domain Classical.webr
+/Sound/Mp3/Epic Stories.mp3
+/Sound/Mp3/Franz Schubert D957.mp3
+/Sound/Mp3/More Web Radio listed by genre/1950 Rock - ABC 50s (Canada).webr
+/Sound/Mp3/More Web Radio listed by genre/1960 Rock - ABC 60s (Canada).webr
+/Sound/Mp3/More Web Radio listed by genre/1970 Hits - 113.fm Retro.webr
+/Sound/Mp3/More Web Radio listed by genre/1980 Rock - ABC 80s (Canada).webr
+/Sound/Mp3/More Web Radio listed by genre/Chillout Ibiza - Costa Del Mar.webr
+/Sound/Mp3/More Web Radio listed by genre/Classic Rock - SHE Florida Radio Station.webr
+/Sound/Mp3/More Web Radio listed by genre/Classic Rock Oldies - West Coast.webr
+/Sound/Mp3/More Web Radio listed by genre/Classical - Abacus Mozart.webr
+/Sound/Mp3/More Web Radio listed by genre/Classical - HearMe Classical Handel.webr
+/Sound/Mp3/More Web Radio listed by genre/Classical - HearMe Classical Violin.webr
+/Sound/Mp3/More Web Radio listed by genre/Classical - Public Domain Classical.webr
+/Sound/Mp3/More Web Radio listed by genre/Dance House - Intense Radio.webr
+/Sound/Mp3/More Web Radio listed by genre/Disco Funk - ABC Disco Funk.webr
+/Sound/Mp3/More Web Radio listed by genre/Folk - American Roots.webr
+/Sound/Mp3/More Web Radio listed by genre/French songs - 100PourCentFrance.webr
+/Sound/Mp3/More Web Radio listed by genre/German 1980 hits - wunshradio.fm.webr
+/Sound/Mp3/More Web Radio listed by genre/German Pop - wunshradio.fm.webr
+/Sound/Mp3/More Web Radio listed by genre/Hard Rock Metal - 80s Rock Radio.webr
+/Sound/Mp3/More Web Radio listed by genre/Jazz Blues Classic - Arctic Outpost AM1270.webr
+/Sound/Mp3/More Web Radio listed by genre/Jazz Lounge - Abacus Jazz.webr
+/Sound/Mp3/More Web Radio listed by genre/Jazz Smooth - Jazz Cafe Audiophile.webr
+/Sound/Mp3/More Web Radio listed by genre/Lovesongs Pop - Radio Arabella.webr
+/Sound/Mp3/More Web Radio listed by genre/NASA Third Rock radio.webr
+/Sound/Mp3/More Web Radio listed by genre/Pop Easy Hit - Radio Miami.webr
+/Sound/Mp3/More Web Radio listed by genre/Progressive Rock - Morow.webr
+/Sound/Mp3/More Web Radio listed by genre/Reggae Soca - Qmz Radio.webr
+/Sound/Mp3/More Web Radio listed by genre/Rock Alternative - La grosse radio.webr
+/Sound/Mp3/More Web Radio listed by genre/Rock Prog - Fr Rock Prog Univers.webr
+/Sound/Mp3/More Web Radio listed by genre/Trance Dance - TrancePulse Dublin.webr
+/Sound/Mp3/More Web Radio listed by genre/Urban RnB Rap - Urban Session HD.webr
+/Sound/Mp3/More Web Radio listed by genre/_Copy to MP3 folder to try.rtf
+/Sound/Mp3/More Web Radio listed by genre/x Bach-Gstring (Nostalgia OrbiterSound 3.5 music).mp3
+/Sound/Mp3/More Web Radio listed by genre/x Calm-Spaces (Nostalgia OrbiterSound 4.0 music).mp3
+/Sound/Mp3/NASA Third Rock radio.webr
+/Sound/Mp3/OrbiterSound_Playlist.m3u
+/Sound/Mp3/Pop Easy Hit - Radio Miami.webr
+/Sound/Mp3/Trance Dance - TrancePulse Dublin.webr
+/Sound/Mp3/_How to add more Mp3 and Web radio.rtf
+/Sound/Mp3/_How to control Mp3 and Web Radio in Orbiter.rtf
+/Sound/OrbiterSound_SDK/MFDSOUND_SDK/MFDSoundExample.dll
+/Sound/OrbiterSound_SDK/MFDSOUND_SDK/MFDSound_Example/MFDTemplate.cpp
+/Sound/OrbiterSound_SDK/MFDSOUND_SDK/MFDSound_Example/MFDTemplate.h
+/Sound/OrbiterSound_SDK/MFDSOUND_SDK/MFDSound_Example/MFDTemplate.sln
+/Sound/OrbiterSound_SDK/MFDSOUND_SDK/MFDSound_Example/MFDTemplate.vcxproj
+/Sound/OrbiterSound_SDK/MFDSOUND_SDK/MFDSound_Example/MfdSoundSDK50.h
+/Sound/OrbiterSound_SDK/MFDSOUND_SDK/MFDSound_Example/MfdSound_AdvancedExample.cpp
+/Sound/OrbiterSound_SDK/MFDSOUND_SDK/MFDSound_Example/MfdSound_SimpleExample.cpp
+/Sound/OrbiterSound_SDK/MFDSOUND_SDK/MFDSound_Example/OrbiterSoundSDK50.lib
+/Sound/OrbiterSound_SDK/MFDSOUND_SDK/MFDSound_Example/OrbiterSoundSDK50d.lib
+/Sound/OrbiterSound_SDK/MFDSOUND_SDK/MFD_SOUND_README.txt
+/Sound/OrbiterSound_SDK/READ ME FIRST.txt
+/Sound/OrbiterSound_SDK/VESSELSOUND_SDK/Read me first.txt
+/Sound/OrbiterSound_SDK/VESSELSOUND_SDK/ShuttlePB_project/OrbiterSoundSDK50.h
+/Sound/OrbiterSound_SDK/VESSELSOUND_SDK/ShuttlePB_project/OrbiterSoundSDK50.lib
+/Sound/OrbiterSound_SDK/VESSELSOUND_SDK/ShuttlePB_project/OrbiterSoundSDK50d.lib
+/Sound/OrbiterSound_SDK/VESSELSOUND_SDK/ShuttlePB_project/ShuttlePB.cpp
+/Sound/OrbiterSound_SDK/VESSELSOUND_SDK/ShuttlePB_project/ShuttlePB.sln
+/Sound/OrbiterSound_SDK/VESSELSOUND_SDK/ShuttlePB_project/ShuttlePB.vcxproj
+/Sound/OrbiterSound_SDK/VESSELSOUND_SDK/ShuttlePB_project/ShuttlePB.vcxproj.filters
+/Sound/OrbiterSound_SDK/VESSELSOUND_SDK/Upgrading from older version to 5.0 SDK.txt
+/Sound/Radio/119.200 STS-133/Credit & copyright.txt
+/Sound/Radio/119.200 STS-133/STS01.wav
+/Sound/Radio/119.200 STS-133/STS02.wav
+/Sound/Radio/119.200 STS-133/STS03.wav
+/Sound/Radio/119.200 STS-133/STS04.wav
+/Sound/Radio/119.200 STS-133/STS05.wav
+/Sound/Radio/119.200 STS-133/STS06.wav
+/Sound/Radio/119.200 STS-133/STS07.wav
+/Sound/Radio/119.200 STS-133/STS08.wav
+/Sound/Radio/119.200 STS-133/STS09.wav
+/Sound/Radio/119.200 STS-133/STS10.wav
+/Sound/Radio/119.200 STS-133/STS11.wav
+/Sound/Radio/119.200 STS-133/STS12.wav
+/Sound/Radio/119.200 STS-133/STS13.wav
+/Sound/Radio/119.200 STS-133/STS14.wav
+/Sound/Radio/119.200 STS-133/STS15.wav
+/Sound/Radio/119.200 STS-133/STS16.wav
+/Sound/Radio/120.100 STS-135/Credit & copyright.txt
+/Sound/Radio/120.100 STS-135/STS.wav
+/Sound/Radio/120.100 STS-135/STS11.wav
+/Sound/Radio/120.100 STS-135/STS12.wav
+/Sound/Radio/120.100 STS-135/STS13.wav
+/Sound/Radio/120.100 STS-135/STS14.wav
+/Sound/Radio/120.100 STS-135/STS15.wav
+/Sound/Radio/120.100 STS-135/STS16.wav
+/Sound/Radio/120.100 STS-135/STS2.wav
+/Sound/Radio/120.100 STS-135/STS3.wav
+/Sound/Radio/120.100 STS-135/STS4.wav
+/Sound/Radio/120.100 STS-135/STS5.wav
+/Sound/Radio/120.100 STS-135/STS6.wav
+/Sound/Radio/120.100 STS-135/STS7.wav
+/Sound/Radio/120.100 STS-135/STS8.wav
+/Sound/Radio/120.100 STS-135/STS9.wav
+/Sound/Radio/120.100 STS-135/sts135.wav
+/Sound/Radio/120.100 STS-135/sts135_nils.wav
+/Sound/Radio/140.300 STS-134/Credit & copyright.txt
+/Sound/Radio/140.300 STS-134/sts134_1.wav
+/Sound/Radio/140.300 STS-134/sts134_10.wav
+/Sound/Radio/140.300 STS-134/sts134_11.wav
+/Sound/Radio/140.300 STS-134/sts134_12.wav
+/Sound/Radio/140.300 STS-134/sts134_13.wav
+/Sound/Radio/140.300 STS-134/sts134_14.wav
+/Sound/Radio/140.300 STS-134/sts134_2.wav
+/Sound/Radio/140.300 STS-134/sts134_3.wav
+/Sound/Radio/140.300 STS-134/sts134_4.wav
+/Sound/Radio/140.300 STS-134/sts134_5.wav
+/Sound/Radio/140.300 STS-134/sts134_6.wav
+/Sound/Radio/140.300 STS-134/sts134_7.wav
+/Sound/Radio/140.300 STS-134/sts134_8.wav
+/Sound/Radio/140.300 STS-134/sts134_9.wav
+/Sound/Radio/141.200 Soyuz TMA12/Credit & copyright.txt
+/Sound/Radio/141.200 Soyuz TMA12/SOY01.wav
+/Sound/Radio/141.200 Soyuz TMA12/SOY02.wav
+/Sound/Radio/141.200 Soyuz TMA12/SOY03.wav
+/Sound/Radio/141.200 Soyuz TMA12/SOY04.wav
+/Sound/Radio/141.200 Soyuz TMA12/SOY05.wav
+/Sound/Radio/141.200 Soyuz TMA12/SOY06.wav
+/Sound/Radio/141.200 Soyuz TMA12/SOY07.wav
+/Sound/Radio/141.200 Soyuz TMA12/SOY08.wav
+/Sound/Radio/141.200 Soyuz TMA12/SOY09.wav
+/Sound/Radio/141.200 Soyuz TMA12/SOY10.wav
+/Sound/Radio/141.200 Soyuz TMA12/SOY11.wav
+/Sound/Radio/141.200 Soyuz TMA12/SOY12.wav
+/Sound/Radio/141.200 Soyuz TMA12/SOY13.wav
+/Sound/Radio/141.200 Soyuz TMA12/SOY14.wav
+/Sound/Radio/141.200 Soyuz TMA12/SOY15.wav
+/Sound/Radio/141.200 Soyuz TMA12/SOY16.wav
+/Sound/Radio/141.200 Soyuz TMA12/SOY17.wav
+/Sound/Radio/143.625 baikonour/ru27.wav
+/Sound/Radio/143.625 baikonour/ru35.wav
+/Sound/Radio/143.625 baikonour/ru39.wav
+/Sound/Radio/143.625 baikonour/ru41.wav
+/Sound/Radio/143.625 baikonour/ru8.wav
+/Sound/Radio/296.800 apollo/app11_10.wav
+/Sound/Radio/296.800 apollo/app11_11.wav
+/Sound/Radio/296.800 apollo/app11_12.wav
+/Sound/Radio/296.800 apollo/app11_13.wav
+/Sound/Radio/296.800 apollo/app11_14.wav
+/Sound/Radio/296.800 apollo/app11_15.wav
+/Sound/Radio/296.800 apollo/app11_16.wav
+/Sound/Radio/296.800 apollo/app11_17.wav
+/Sound/Radio/296.800 apollo/app11_18.wav
+/Sound/Radio/296.800 apollo/app11_19.wav
+/Sound/Radio/296.800 apollo/app11_20.wav
+/Sound/Radio/296.800 apollo/app11_21.wav
+/Sound/Radio/296.800 apollo/app11_22.wav
+/Sound/Radio/296.800 apollo/app11_23.wav
+/Sound/Radio/296.800 apollo/app11_24.wav
+/Sound/Radio/296.800 apollo/app11_25.wav
+/Sound/Radio/296.800 apollo/app11_26.wav
+/Sound/Radio/296.800 apollo/app11_27.wav
+/Sound/Radio/296.800 apollo/app11_28.wav
+/Sound/Radio/296.800 apollo/app11_29.wav
+/Sound/Radio/296.800 apollo/app11_30.wav
+/Sound/Radio/296.800 apollo/app11_31.wav
+/Sound/Radio/296.800 apollo/app11_32.wav
+/Sound/Radio/296.800 apollo/app11_33.wav
+/Sound/Radio/296.800 apollo/app11_34.wav
+/Sound/Radio/296.800 apollo/app11_35.wav
+/Sound/Radio/296.800 apollo/app11_36.wav
+/Sound/Radio/296.800 apollo/app11_37.wav
+/Sound/Radio/296.800 apollo/app11_38.wav
+/Sound/Radio/More_Atc_help.txt
+/Sound/Sequential_Editor.exe
+/Sound/Vessel/-10.WAV
+/Sound/Vessel/-100.WAV
+/Sound/Vessel/-1000.WAV
+/Sound/Vessel/-20.WAV
+/Sound/Vessel/-200.WAV
+/Sound/Vessel/-2500.WAV
+/Sound/Vessel/-30.WAV
+/Sound/Vessel/-300.WAV
+/Sound/Vessel/-40.WAV
+/Sound/Vessel/-400.WAV
+/Sound/Vessel/-50.WAV
+/Sound/Vessel/-500.WAV
+/Sound/Vessel/AuxThr.wav
+/Sound/Vessel/Hover_int.wav
+/Sound/Vessel/Hover_int_legacy.wav
+/Sound/Vessel/Land.wav
+/Sound/Vessel/LandScreech.wav
+/Sound/Vessel/RcsattmodeOff.wav
+/Sound/Vessel/RcsattmodeRot.wav
+/Sound/Vessel/RcsattmodeTrans.wav
+/Sound/Vessel/Roll.wav
+/Sound/Vessel/Rollpad.wav
+/Sound/Vessel/aircond.wav
+/Sound/Vessel/airspeed.wav
+/Sound/Vessel/ambient0.wav
+/Sound/Vessel/ambient1.wav
+/Sound/Vessel/ambient2.wav
+/Sound/Vessel/ambient3.wav
+/Sound/Vessel/ambient4.wav
+/Sound/Vessel/ambient5.wav
+/Sound/Vessel/ambient6.wav
+/Sound/Vessel/ambient7.wav
+/Sound/Vessel/ambient8.wav
+/Sound/Vessel/ambient9.wav
+/Sound/Vessel/attfire.wav
+/Sound/Vessel/attfire40stereo.wav
+/Sound/Vessel/attmode0.wav
+/Sound/Vessel/attmode1.wav
+/Sound/Vessel/attsustain.wav
+/Sound/Vessel/attsustain40stereo1.wav
+/Sound/Vessel/attsustain40stereo2.wav
+/Sound/Vessel/bipbipmfderror.wav
+/Sound/Vessel/brake.wav
+/Sound/Vessel/countdown.wav
+/Sound/Vessel/countdown1.WAV
+/Sound/Vessel/crash.WAV
+/Sound/Vessel/docking.wav
+/Sound/Vessel/dockingClr.WAV
+/Sound/Vessel/docking_radio.wav
+/Sound/Vessel/docking_radio_01.wav
+/Sound/Vessel/docking_radio_02.wav
+/Sound/Vessel/docking_radio_03.wav
+/Sound/Vessel/docking_radio_04.wav
+/Sound/Vessel/docking_radio_05.wav
+/Sound/Vessel/docking_radio_06.wav
+/Sound/Vessel/docking_radio_07.wav
+/Sound/Vessel/docking_radio_08.wav
+/Sound/Vessel/docking_radio_09.wav
+/Sound/Vessel/docking_radio_10.wav
+/Sound/Vessel/docking_small_001.wav
+/Sound/Vessel/landClr.WAV
+/Sound/Vessel/mainext.wav
+/Sound/Vessel/mainextclose.wav
+/Sound/Vessel/mainextloud.wav
+/Sound/Vessel/noise.wav
+/Sound/Vessel/radar_bip.wav
+/Sound/Vessel/radar_close.wav
+/Sound/Vessel/radiotune.wav
+/Sound/Vessel/radvoice_1.wav
+/Sound/Vessel/radvoice_10.wav
+/Sound/Vessel/radvoice_100.wav
+/Sound/Vessel/radvoice_2.wav
+/Sound/Vessel/radvoice_20.wav
+/Sound/Vessel/radvoice_200.wav
+/Sound/Vessel/radvoice_3.wav
+/Sound/Vessel/radvoice_30.wav
+/Sound/Vessel/radvoice_4.wav
+/Sound/Vessel/radvoice_40.wav
+/Sound/Vessel/radvoice_5.wav
+/Sound/Vessel/radvoice_50.wav
+/Sound/Vessel/reentryfar.wav
+/Sound/Vessel/retro.wav
+/Sound/Vessel/sonicbang.wav
+/Sound/Vessel/sonicbangfar.wav
+/Sound/Vessel/sonicbangfar1.wav
+/Sound/Vessel/undocking.wav
+/Sound/Vessel/undocking_radio.wav
+/Sound/Vessel/undocking_radio_01.wav
+/Sound/Vessel/undocking_radio_02.wav
+/Sound/Vessel/undocking_radio_03.wav
+/Sound/Vessel/undocking_radio_04.wav
+/Sound/Vessel/wind.wav
+/Sound/_CustomBaseSounds/Earth_Cape Canaveral_12000_255_40.wav
+/Sound/_CustomBaseSounds/Earth_Gran Canaria_12000_500_30.wav
+/Sound/_CustomBaseSounds/Earth_Habana_10000_255_15.wav
+/Sound/_CustomBaseSounds/Earth_Kourou_12000_255_15.wav
+/Sound/_CustomBaseSounds/_ADD BASE SOUND DOCUMENTATION.txt
+/Sound/_CustomScenarioSounds/OrbiterSoundDemo/Action_Strike.mp3
+/Sound/_CustomScenarioSounds/OrbiterSoundDemo/AtlantisFullLaunchExternal.ogg
+/Sound/_CustomScenarioSounds/OrbiterSoundDemo/AtlantisFullLaunchInternal.ogg
+/Sound/_CustomScenarioSounds/OrbiterSoundDemo/Brothers_Unite.mp3
+/Sound/_CustomScenarioSounds/OrbiterSoundDemo/ScenarioDemoSquadronFlyBy_mixdown.mp3
+/Sound/_CustomScenarioSounds/OrbiterSoundDemo/ScenarioDemoSquadron_mixdown.mp3
+/Sound/_CustomScenarioSounds/OrbiterSoundDemo/playsoundOneCockpit.ogg
+/Sound/_CustomScenarioSounds/OrbiterSoundDemo/playsoundTwoExternal.ogg
+/Sound/_CustomVesselsSounds/Atlantis.cfg
+/Sound/_CustomVesselsSounds/Atlantis/ClickSwitch.wav
+/Sound/_CustomVesselsSounds/Atlantis/aircond.wav
+/Sound/_CustomVesselsSounds/Atlantis/cBayClosed.wav
+/Sound/_CustomVesselsSounds/Atlantis/cBayDoorMove.wav
+/Sound/_CustomVesselsSounds/Atlantis/cBayOpen.wav
+/Sound/_CustomVesselsSounds/Atlantis/cBrakeClosed.wav
+/Sound/_CustomVesselsSounds/Atlantis/cBrakeOpen.wav
+/Sound/_CustomVesselsSounds/Atlantis/cGearDown.wav
+/Sound/_CustomVesselsSounds/Atlantis/cGearMove.wav
+/Sound/_CustomVesselsSounds/Atlantis/cGearUp.wav
+/Sound/_CustomVesselsSounds/Atlantis/cKuClosed.wav
+/Sound/_CustomVesselsSounds/Atlantis/cKuOpen.wav
+/Sound/_CustomVesselsSounds/Atlantis/cRadClosed.wav
+/Sound/_CustomVesselsSounds/Atlantis/cRadOpen.wav
+/Sound/_CustomVesselsSounds/Atlantis/countdown.wav
+/Sound/_CustomVesselsSounds/Atlantis/srb.wav
+/Sound/_CustomVesselsSounds/DG_S.cfg
+/Sound/_CustomVesselsSounds/DG_S/-10.wav
+/Sound/_CustomVesselsSounds/DG_S/-100.wav
+/Sound/_CustomVesselsSounds/DG_S/-1000.wav
+/Sound/_CustomVesselsSounds/DG_S/-20.wav
+/Sound/_CustomVesselsSounds/DG_S/-200.wav
+/Sound/_CustomVesselsSounds/DG_S/-2500.wav
+/Sound/_CustomVesselsSounds/DG_S/-30.wav
+/Sound/_CustomVesselsSounds/DG_S/-300.wav
+/Sound/_CustomVesselsSounds/DG_S/-40.wav
+/Sound/_CustomVesselsSounds/DG_S/-400.wav
+/Sound/_CustomVesselsSounds/DG_S/-50.wav
+/Sound/_CustomVesselsSounds/DG_S/-500.wav
+/Sound/_CustomVesselsSounds/DG_S/Hover.wav
+/Sound/_CustomVesselsSounds/DG_S/aircond.wav
+/Sound/_CustomVesselsSounds/DG_S/cGearDown.wav
+/Sound/_CustomVesselsSounds/DG_S/cGearMove.wav
+/Sound/_CustomVesselsSounds/DG_S/cGearUp.wav
+/Sound/_CustomVesselsSounds/DG_S/cHatchClose.wav
+/Sound/_CustomVesselsSounds/DG_S/cHatchMove.wav
+/Sound/_CustomVesselsSounds/DG_S/cHatchOpen.wav
+/Sound/_CustomVesselsSounds/DG_S/cInnerMove.wav
+/Sound/_CustomVesselsSounds/DG_S/cInnerOpen.wav
+/Sound/_CustomVesselsSounds/DG_S/cInnerclose.wav
+/Sound/_CustomVesselsSounds/DG_S/cLadderClose.wav
+/Sound/_CustomVesselsSounds/DG_S/cLadderMove.wav
+/Sound/_CustomVesselsSounds/DG_S/cLadderOpen.wav
+/Sound/_CustomVesselsSounds/DG_S/cNoseClose.wav
+/Sound/_CustomVesselsSounds/DG_S/cNoseMove.wav
+/Sound/_CustomVesselsSounds/DG_S/cNoseOpen.wav
+/Sound/_CustomVesselsSounds/DG_S/cOuterClose.wav
+/Sound/_CustomVesselsSounds/DG_S/cOuterMove.wav
+/Sound/_CustomVesselsSounds/DG_S/cOuterOpen.wav
+/Sound/_CustomVesselsSounds/DG_S/cRadClose.wav
+/Sound/_CustomVesselsSounds/DG_S/cRadMove.wav
+/Sound/_CustomVesselsSounds/DG_S/cRadOpen.wav
+/Sound/_CustomVesselsSounds/DG_S/cRetroMove.wav
+/Sound/_CustomVesselsSounds/DG_S/cSwitch.wav
+/Sound/_CustomVesselsSounds/DG_S/dSwitch.wav
+/Sound/_CustomVesselsSounds/DG_S/main.wav
+/Sound/_CustomVesselsSounds/DG_S/retro.wav
+/Sound/_CustomVesselsSounds/DG_S/rotation.wav
+/Sound/_CustomVesselsSounds/DG_S/translation.wav
+/Sound/_CustomVesselsSounds/DG_S_info.txt
+/Sound/_CustomVesselsSounds/DeltaGlider.cfg
+/Sound/_CustomVesselsSounds/DeltaGlider/-10.wav
+/Sound/_CustomVesselsSounds/DeltaGlider/-100.wav
+/Sound/_CustomVesselsSounds/DeltaGlider/-1000.wav
+/Sound/_CustomVesselsSounds/DeltaGlider/-20.wav
+/Sound/_CustomVesselsSounds/DeltaGlider/-200.wav
+/Sound/_CustomVesselsSounds/DeltaGlider/-2500.wav
+/Sound/_CustomVesselsSounds/DeltaGlider/-30.wav
+/Sound/_CustomVesselsSounds/DeltaGlider/-300.wav
+/Sound/_CustomVesselsSounds/DeltaGlider/-40.wav
+/Sound/_CustomVesselsSounds/DeltaGlider/-400.wav
+/Sound/_CustomVesselsSounds/DeltaGlider/-50.wav
+/Sound/_CustomVesselsSounds/DeltaGlider/-500.wav
+/Sound/_CustomVesselsSounds/DeltaGlider/Hover.wav
+/Sound/_CustomVesselsSounds/DeltaGlider/aircond.wav
+/Sound/_CustomVesselsSounds/DeltaGlider/cGearDown.wav
+/Sound/_CustomVesselsSounds/DeltaGlider/cGearMove.wav
+/Sound/_CustomVesselsSounds/DeltaGlider/cGearUp.wav
+/Sound/_CustomVesselsSounds/DeltaGlider/cHatchClose.wav
+/Sound/_CustomVesselsSounds/DeltaGlider/cHatchMove.wav
+/Sound/_CustomVesselsSounds/DeltaGlider/cHatchOpen.wav
+/Sound/_CustomVesselsSounds/DeltaGlider/cInnerMove.wav
+/Sound/_CustomVesselsSounds/DeltaGlider/cInnerOpen.wav
+/Sound/_CustomVesselsSounds/DeltaGlider/cInnerclose.wav
+/Sound/_CustomVesselsSounds/DeltaGlider/cLadderClose.wav
+/Sound/_CustomVesselsSounds/DeltaGlider/cLadderMove.wav
+/Sound/_CustomVesselsSounds/DeltaGlider/cLadderOpen.wav
+/Sound/_CustomVesselsSounds/DeltaGlider/cNoseClose.wav
+/Sound/_CustomVesselsSounds/DeltaGlider/cNoseMove.wav
+/Sound/_CustomVesselsSounds/DeltaGlider/cNoseOpen.wav
+/Sound/_CustomVesselsSounds/DeltaGlider/cOuterClose.wav
+/Sound/_CustomVesselsSounds/DeltaGlider/cOuterMove.wav
+/Sound/_CustomVesselsSounds/DeltaGlider/cOuterOpen.wav
+/Sound/_CustomVesselsSounds/DeltaGlider/cRadClose.wav
+/Sound/_CustomVesselsSounds/DeltaGlider/cRadMove.wav
+/Sound/_CustomVesselsSounds/DeltaGlider/cRadOpen.wav
+/Sound/_CustomVesselsSounds/DeltaGlider/cRetroMove.wav
+/Sound/_CustomVesselsSounds/DeltaGlider/cSwitch.wav
+/Sound/_CustomVesselsSounds/DeltaGlider/dSwitch.wav
+/Sound/_CustomVesselsSounds/DeltaGlider/retro.wav
+/Sound/_CustomVesselsSounds/DeltaGlider/rotation.wav
+/Sound/_CustomVesselsSounds/DeltaGlider/translation.wav
+/Sound/_CustomVesselsSounds/ProjectAlpha_ISS.cfg
+/Sound/_CustomVesselsSounds/ProjectAlpha_ISS/STS07.pkf
+/Sound/_CustomVesselsSounds/ProjectAlpha_ISS/aircond.wav
+/Sound/_CustomVesselsSounds/ShuttleA.cfg
+/Sound/_CustomVesselsSounds/ShuttleA/-10.wav
+/Sound/_CustomVesselsSounds/ShuttleA/-100.wav
+/Sound/_CustomVesselsSounds/ShuttleA/-1000.wav
+/Sound/_CustomVesselsSounds/ShuttleA/-20.wav
+/Sound/_CustomVesselsSounds/ShuttleA/-200.wav
+/Sound/_CustomVesselsSounds/ShuttleA/-2500.wav
+/Sound/_CustomVesselsSounds/ShuttleA/-30.wav
+/Sound/_CustomVesselsSounds/ShuttleA/-300.wav
+/Sound/_CustomVesselsSounds/ShuttleA/-40.wav
+/Sound/_CustomVesselsSounds/ShuttleA/-400.wav
+/Sound/_CustomVesselsSounds/ShuttleA/-50.wav
+/Sound/_CustomVesselsSounds/ShuttleA/-500.wav
+/Sound/_CustomVesselsSounds/ShuttleA/Hover.wav
+/Sound/_CustomVesselsSounds/ShuttleA/UserThr.wav
+/Sound/_CustomVesselsSounds/ShuttleA/aircond.wav
+/Sound/_CustomVesselsSounds/ShuttleA/cDoorMove.wav
+/Sound/_CustomVesselsSounds/ShuttleA/cGearDown.wav
+/Sound/_CustomVesselsSounds/ShuttleA/cGearMove.wav
+/Sound/_CustomVesselsSounds/ShuttleA/cGearUp.wav
+/Sound/_CustomVesselsSounds/ShuttleA/cInnerClose.wav
+/Sound/_CustomVesselsSounds/ShuttleA/cInnerOpen.wav
+/Sound/_CustomVesselsSounds/ShuttleA/cOuterClose.wav
+/Sound/_CustomVesselsSounds/ShuttleA/cOuterDoorMove.wav
+/Sound/_CustomVesselsSounds/ShuttleA/cOuterOpen.wav
+/Sound/_CustomVesselsSounds/ShuttleA/cPodForward.wav
+/Sound/_CustomVesselsSounds/ShuttleA/cPodMove.wav
+/Sound/_CustomVesselsSounds/ShuttleA/cPodRetro.wav
+/Sound/_CustomVesselsSounds/ShuttleA/cSwitch.wav
+/Sound/_CustomVesselsSounds/ShuttleA/gearmove.wav
+/Sound/_CustomVesselsSounds/ShuttleA/main.wav
+/Sound/_CustomVesselsSounds/ShuttleA/rotation.wav
+/Sound/_CustomVesselsSounds/ShuttleA/translation.wav
+/Sound/_CustomVesselsSounds/ShuttlePBSDKDemo.cfg
+/Sound/_CustomVesselsSounds/ShuttlePBSDKDemo/Hover_int.wav
+/Sound/_CustomVesselsSounds/ShuttlePBSDKDemo/KeyOnePressed.wav
+/Sound/_CustomVesselsSounds/ShuttlePBSDKDemo/KeyThreePressed.wav
+/Sound/_CustomVesselsSounds/ShuttlePBSDKDemo/KeyTwoPressed.wav
+/Sound/_CustomVesselsSounds/ShuttlePBSDKDemo/LaunchTime.wav
+/Sound/_CustomVesselsSounds/ShuttlePBSDKDemo/left.wav
+/Sound/_CustomVesselsSounds/ShuttlePBSDKDemo/my500meter.wav
+/Sound/_CustomVesselsSounds/ShuttlePBSDKDemo/myMainThrust.wav
+/Sound/_CustomVesselsSounds/ShuttlePBSDKDemo/myUfoSound.wav
+/Sound/_CustomVesselsSounds/ShuttlePBSDKDemo/myaircond.wav
+/Sound/_CustomVesselsSounds/ShuttlePBSDKDemo/myradar.wav
+/Sound/_CustomVesselsSounds/ShuttlePBSDKDemo/radvoice_1.wav
+/Sound/_CustomVesselsSounds/ShuttlePBSDKDemo/radvoice_10.wav
+/Sound/_CustomVesselsSounds/ShuttlePBSDKDemo/radvoice_100.wav
+/Sound/_CustomVesselsSounds/ShuttlePBSDKDemo/radvoice_2.wav
+/Sound/_CustomVesselsSounds/ShuttlePBSDKDemo/radvoice_200.wav
+/Sound/_CustomVesselsSounds/ShuttlePBSDKDemo/radvoice_25.wav
+/Sound/_CustomVesselsSounds/ShuttlePBSDKDemo/radvoice_3.wav
+/Sound/_CustomVesselsSounds/ShuttlePBSDKDemo/radvoice_4.wav
+/Sound/_CustomVesselsSounds/ShuttlePBSDKDemo/radvoice_5.wav
+/Sound/_CustomVesselsSounds/ShuttlePBSDKDemo/radvoice_50.wav
+/Sound/_CustomVesselsSounds/ShuttlePBSDKDemo/right.wav
+/Sound/_CustomVesselsSounds/ShuttlePBSDKDemo/rotation.wav
+/Sound/_CustomVesselsSounds/ShuttlePBSDKDemo/translation.wav
+/Sound/_CustomVesselsSounds/_How to Change vessel sound and options.txt
+/Sound/_CustomWindSounds/Earth_default1.wav
+/Sound/_CustomWindSounds/Earth_default2.wav
+/Sound/_CustomWindSounds/GenericBig_default.wav
+/Sound/_CustomWindSounds/GenericBig_default2.wav
+/Sound/_CustomWindSounds/GenericNormal_default.wav
+/Sound/_CustomWindSounds/Jupiter_default.wav
+/Sound/_CustomWindSounds/Neptune_default.wav
+/Sound/_CustomWindSounds/Venus_default.wav
+/Sound/_CustomWindSounds/_ADD WINDS DOCUMENTATION.txt
+/Sound/cfg/Editable_Advanced_Configuration.cfg
+/Sound/cfg/NoWelcome.cfg
+/Sound/cfg/OrbiterSound3.cfg
+/Sound/cfg/Radio.cfg
+/Sound/cfg/ig.tpc
+/Sound/cfg/ig1.tpc
+/Sound/cfg/ig3.tpc
+/Sound/cfg/jbls.tpc
+/Sound/cfg/ny.tpc
+/Sound/cfg/ny1.tpc
+/Sound/cfg/ob.tpc
+/Sound/cfg/upd.dat
+/Sound/cfg/wlcm.wav
+/Sound/version.txt
+/SoundConfig.exe
