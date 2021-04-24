@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{5445a39e-0637-41df-9944-5c075c1ef5ae}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;rc;def;r;odl;idl;hpj;bat</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{14f1a5d2-533d-4125-bd40-4cb6ece7eaf9}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{0e0e7882-94a0-4cdb-beb4-a02a5964a0d1}</UniqueIdentifier>
+      <Extensions>ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="gemini_controlpanel.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Gemini_Titan.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ADI.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\include\common_addon.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Gemini.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="gemini_panel.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\include\multi_stage6.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="panel_graphics.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Titan2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="adipanel.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="CDRPanel.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="gem_sq_knob.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="GeminiCdr.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="lower_center.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RateHorz.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RateRoll.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RateVert.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="..\..\lib\Orbitersdk.lib" />
+    <Library Include="..\..\lib\Orbiter.lib" />
+  </ItemGroup>
+</Project>

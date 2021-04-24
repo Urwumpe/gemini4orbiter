@@ -7,7 +7,7 @@
 #include "vectors.h"
 #include <math.h>
 #include <stdio.h>
-#include <fstream.h>
+#include <fstream>
 #include <direct.h>
 
 //const double G   = 9.80665;

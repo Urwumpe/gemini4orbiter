@@ -2,7 +2,8 @@
 #define __GEMINI_PANEL_H
 
 #include "resource.h"
-#include "orbitersdk.h"
+#include <OrbiterAPI.h>
+#include <VesselAPi.h>
 #include "multi_stage4.h"
 #include "panel_graphics.h"
 #include "ADI.h"
