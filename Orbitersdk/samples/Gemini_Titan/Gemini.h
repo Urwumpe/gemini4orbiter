@@ -5,9 +5,9 @@
 #include "..\..\include\multi_stage4.h"
 #include "panel_graphics.h"
 #include "gemini_panel.h"
-#include <stdio.h>
-#include <fstream.h>
-#include <math.h>
+#include <cstdio>
+#include <fstream>
+#include <cmath>
 
 const double GBOTTOM = -3.09+.75;
 const VECTOR3 OFS_GEMINI         = { 0.0, 0.0, 0.75};
@@ -1847,7 +1847,9 @@ void CoeffFunc (double aoa, double M, double Re, double *cl, double *cm, double 
 		SCD[j]= (CD[j+1]-CD[j])/(AOA[j+1]-AOA[j]);
 	}
 
-	for (int i = 0; i < nlift-1 && AOA[i+1] < aoa; i++);
+	int i;
+	//Iterative search for table entry by AOA
+	for (i = 0; i < nlift-1 && AOA[i+1] < aoa; i++);
 
 	*cl = (CL[i] + (aoa-AOA[i])*SCL[i]);
 	*cm = factor*(CM[i] + (aoa-AOA[i])*SCM[i]);
@@ -1856,6 +1858,7 @@ void CoeffFunc (double aoa, double M, double Re, double *cl, double *cm, double 
 
 double LiftCoeff (double aoa)
 {
+	int i;
 	const int nlift = 9;
 	static const double AOA[nlift] = {-180*RAD,-165*RAD,-164*RAD,-45*RAD,0*RAD,45*RAD,164*RAD,165*RAD,180*RAD};
 	static const double CL[nlift]  = {0.06375,  0.1275,       0,      0,    0,     0,      0,      0,0.06375};
@@ -1864,17 +1867,18 @@ double LiftCoeff (double aoa)
 		                              (CL[3]-CL[2])/(AOA[3]-AOA[2]), (CL[4]-CL[3])/(AOA[4]-AOA[3]),
 									  (CL[5]-CL[4])/(AOA[5]-AOA[4]), (CL[6]-CL[5])/(AOA[6]-AOA[5]),
 									  (CL[7]-CL[6])/(AOA[7]-AOA[6]), (CL[8]-CL[7])/(AOA[8]-AOA[7])};
-	for (int i = 0; i < nlift-1 && AOA[i+1] < aoa; i++);
+	for (i = 0; i < nlift-1 && AOA[i+1] < aoa; i++);
 	return CL[i] + (aoa-AOA[i])*SCL[i];
 }
 
 void NewLiftCoeff (double aoa, double M, double Re, double *cl, double *cm, double *cd)
 {
+	int i;
 	const int nabsc = 9;
 	static const double AOA[nabsc] = {-180*RAD,-150*RAD,-130*RAD,-15*RAD, 0*RAD, 15*RAD,130*RAD,150*RAD,180*RAD};
 	static const double CM[nabsc]  = {    .0002,    .0002,     0.0, 0.0002,  0.00,  -0.0002,      0,  -.0002,  -.0002};
 
-	for (int i = 0; i < nabsc-1 && AOA[i+1] < aoa; i++);
+	for (i = 0; i < nabsc-1 && AOA[i+1] < aoa; i++);
 	double f = (aoa-AOA[i]) / (AOA[i+1]-AOA[i]);
 
 	*cl = 0;

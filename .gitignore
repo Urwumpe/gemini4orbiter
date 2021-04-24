@@ -351,3 +351,1962 @@ MigrationBackup/
 Modules
 /Orbitersdk/lib/OrbIPCC.lib
 /Orbitersdk/lib/OrbiterSoundSDK.lib
+/Config/Ariel.cfg
+/Config/CSphere/bkgimage.cfg
+/Config/Callisto.cfg
+/Config/Callisto/Marker/Catenae.mkr
+/Config/Callisto/Marker
+/Config/Deimos.cfg
+/Config/Dione.cfg
+/Config/Earth/Atmosphere.cfg
+/Config/Earth/Base/Al_Anbar.cfg
+/Config/Earth/Base/Alcantara.cfg
+/Config/Earth/Base/Baikonur.cfg
+/Config/Earth/Base/Barent_Sea.cfg
+/Config/Earth/Base/China_Lake.cfg
+/Config/Earth/Base/Doberai.cfg
+/Config/Earth/Base/Gran_canaria.cfg
+/Config/Earth/Base/Habana.cfg
+/Config/Earth/Base/Hammaguira.cfg
+/Config/Earth/Base/Inyokern.cfg
+/Config/Earth/Base/Jingyu.cfg
+/Config/Earth/Base/Jiuquan.cfg
+/Config/Earth/Base/Kagoshima.cfg
+/Config/Earth/Base/Kapustin_Yar.cfg
+/Config/Earth/Base/Kourou.cfg
+/Config/Earth/Base/Matagorda.cfg
+/Config/Earth/Base/Musudan.cfg
+/Config/Earth/Base/Overberg.cfg
+/Config/Earth/Base/Palmachim.cfg
+/Config/Earth/Base/Peenemunde.cfg
+/Config/Earth/Base/Plesetsk.cfg
+/Config/Earth/Base/Salto_di_Quirra.cfg
+/Config/Earth/Base/San_Marco.cfg
+/Config/Earth/Base/Sriharikota.cfg
+/Config/Earth/Base/Svobodniy.cfg
+/Config/Earth/Base/Taiyuan.cfg
+/Config/Earth/Base/Tanegashima.cfg
+/Config/Earth/Base/Woomera.cfg
+/Config/Earth/Base/Wuzhai.cfg
+/Config/Earth/Base/Xichang.cfg
+/Config/Earth/Data
+/Config/Earth/Marker/Antarctic Stations.mkr
+/Config/Earth/Marker/Cities.mkr
+/Config/Earth/Marker/Impact Features.mkr
+/Config/Earth/Marker/Islands.mkr
+/Config/Earth/Marker/Miscellaneous.mkr
+/Config/Earth/Marker/Mountains and Volcanos.mkr
+/Config/Earth/Marker/Tracking Stations.mkr
+/Config/Enceladus.cfg
+/Config/Europa.cfg
+/Config/Europa/Marker
+/Config/Ganymede.cfg
+/Config/Ganymede/Marker
+/Config/Io/Marker
+/Config/Jupiter/Data
+/Config/MFD
+/Config/Mars
+/Config/Mercury/Data
+/Config/Mercury/Marker
+/Config/Moon/Base
+/Config/Moon/Data
+/Config/Moon/Marker
+/Config/Neptune/Data
+/Config/Saturn/Data
+/Config/Hyperion.cfg
+/Config/Iapetus.cfg
+/Config/Io.cfg
+/Config/Jupiter.cfg
+/Config/Mars.cfg
+/Config/Mercury.cfg
+/Config/Mimas.cfg
+/Config/Miranda.cfg
+/Config/Moon.cfg
+/Config/Neptune.cfg
+/Config/Nereid.cfg
+/Config/Oberon.cfg
+/Config/Phobos.cfg
+/Config/Proteus.cfg
+/Config/Rhea.cfg
+/Config/Saturn.cfg
+/Config/Sol.cfg
+/Config/Sol/Marker/Apollo AGC navigation stars.mkr
+/Config/Sol/Marker/Common star names.mkr
+/Config/Sol/Marker/Messier objects.mkr
+/Config/Sun/Data
+/Config/Titan/Marker
+/Config/Venus/Data
+/Config/Venus/Marker
+/Config/Vessels/Atlantis.cfg
+/Config/Vessels/Atlantis_SRB.cfg
+/Config/Vessels/Atlantis_Tank.cfg
+/Config/Vessels/Carina.cfg
+/Config/Vessels/DG-S.cfg
+/Config/Vessels/Deltaglider.cfg
+/Config/Vessels/Dragonfly.cfg
+/Config/Vessels/Galileo.cfg
+/Config/Vessels/HST.cfg
+/Config/Vessels/ISS.cfg
+/Config/Vessels/LDEF.cfg
+/Config/Vessels/Leonardo_mplm.cfg
+/Config/Vessels/MG_Atlantis.cfg
+/Config/Vessels/Mir.cfg
+/Config/Vessels/Module1.cfg
+/Config/Vessels/Module2.cfg
+/Config/Vessels/ProjectAlpha_ISS.cfg
+/Config/Vessels/ScriptPB.cfg
+/Config/Vessels/ShuttleA.cfg
+/Config/Vessels/ShuttleA_pl.cfg
+/Config/Vessels/ShuttlePB.cfg
+/Config/Vessels/SolarSail.cfg
+/Config/Vessels/Wheel.cfg
+/Config/Vessels/mplm.cfg
+/Config/Vessels/nasa_mmu.cfg
+/Config/Sun.cfg
+/Config/Tethys.cfg
+/Config/Titan.cfg
+/Config/Titania.cfg
+/Config/Triton.cfg
+/Config/Umbriel.cfg
+/Config/Uranus.cfg
+/Config/Uranus/Data/Vsop87B.dat
+/Config/Venus.cfg
+/Config/Venus/Atmosphere.cfg
+/Config/Vesta.cfg
+/Config/transx.cfg
+/Constell.bin
+/Constell2.bin
+/Doc/Atlantis.pdf
+/Doc/Atlantis_MMU_Sat_30.pdf
+/Doc/Change.pdf
+/Doc/Credit.pdf
+/Doc/DeltaGlider.pdf
+/Doc/Dragonfly.pdf
+/Doc/Orbiter.pdf
+/Doc/OrbiterConfig.pdf
+/Doc/PlanetTextures.pdf
+/Doc/ScenarioEditor.pdf
+/Doc/ShuttleA.pdf
+/Doc/Technotes/RecorderRef.pdf
+/Doc/Technotes/distmass.pdf
+/Doc/Technotes/dynamics.pdf
+/Doc/Technotes/earth_atm.pdf
+/Doc/Technotes/gravity.pdf
+/Doc/Technotes/lighting.pdf
+/Doc/Technotes/precession.pdf
+/Doc/TransX/TransX Licence.txt
+/Doc/TransX/TransX quickstart.pdf
+/Doc/TransX/TransX readme.txt
+/Doc/TransX/TransXmanualv3.pdf
+/Doc/TransX/deepspacemanual.pdf
+/Flights/3 Minute Tour of Kennedy Space Center/GL-01S.atc
+/Flights/3 Minute Tour of Kennedy Space Center/GL-01S.att
+/Flights/3 Minute Tour of Kennedy Space Center/GL-01S.pos
+/Flights/3 Minute Tour of Kennedy Space Center/system.dat
+/Flights/Atlantis undocking/ISS.atc
+/Flights/Atlantis undocking/ISS.att
+/Flights/Atlantis undocking/ISS.pos
+/Flights/Atlantis undocking/STS-101.atc
+/Flights/Atlantis undocking/STS-101.att
+/Flights/Atlantis undocking/STS-101.pos
+/Flights/DG stunts/GL-01.atc
+/Flights/DG stunts/GL-01.att
+/Flights/DG stunts/GL-01.pos
+/Flights/DG stunts/system.dat
+/Flights/DG to the moon/GL-01.atc
+/Flights/DG to the moon/GL-01.att
+/Flights/DG to the moon/GL-01.pos
+/Flights/DG to the moon/ISS.atc
+/Flights/DG to the moon/ISS.att
+/Flights/DG to the moon/ISS.pos
+/Flights/DG to the moon/system.dat
+/Flights/DG-ISS Sync Dock/GL-01.atc
+/Flights/DG-ISS Sync Dock/GL-01.att
+/Flights/DG-ISS Sync Dock/GL-01.pos
+/Flights/DG-ISS Sync Dock/GL-02.atc
+/Flights/DG-ISS Sync Dock/GL-02.att
+/Flights/DG-ISS Sync Dock/GL-02.pos
+/Flights/DG-ISS Sync Dock/ISS.atc
+/Flights/DG-ISS Sync Dock/ISS.att
+/Flights/DG-ISS Sync Dock/ISS.pos
+/Flights/DG-ISS Sync Dock/Mir.atc
+/Flights/DG-ISS Sync Dock/Mir.att
+/Flights/DG-ISS Sync Dock/Mir.pos
+/Flights/DG-ISS Sync Dock/SH-01.atc
+/Flights/DG-ISS Sync Dock/SH-01.att
+/Flights/DG-ISS Sync Dock/SH-01.pos
+/Flights/DG-ISS Sync Dock/system.dat
+/Flights/Glider in orbit 1/GL-01.atc
+/Flights/Glider in orbit 1/GL-01.att
+/Flights/Glider in orbit 1/GL-01.pos
+/Flights/Glider in orbit 1/system.dat
+/Flights/Glider in orbit 2/GL-01.atc
+/Flights/Glider in orbit 2/GL-01.att
+/Flights/Glider in orbit 2/GL-01.pos
+/Flights/Smack! Rescue/GL-01.atc
+/Flights/Smack! Rescue/GL-01.att
+/Flights/Smack! Rescue/GL-01.pos
+/Flights/Smack! Rescue/GL-02.atc
+/Flights/Smack! Rescue/GL-02.att
+/Flights/Smack! Rescue/GL-02.pos
+/Flights/Smack! Rescue/ISS.atc
+/Flights/Smack! Rescue/ISS.att
+/Flights/Smack! Rescue/ISS.pos
+/Flights/Smack! Rescue/Luna-OB1.atc
+/Flights/Smack! Rescue/Luna-OB1.att
+/Flights/Smack! Rescue/Luna-OB1.pos
+/Flights/Smack! Rescue/Mir.atc
+/Flights/Smack! Rescue/Mir.att
+/Flights/Smack! Rescue/Mir.pos
+/Flights/Smack! Rescue/PB-01.atc
+/Flights/Smack! Rescue/PB-01.att
+/Flights/Smack! Rescue/PB-01.pos
+/Flights/Smack! Rescue/SH-01.atc
+/Flights/Smack! Rescue/SH-01.att
+/Flights/Smack! Rescue/SH-01.pos
+/Flights/Smack! Rescue/system.dat
+/Flights/Space Shuttle final approach/Atlantis.atc
+/Flights/Space Shuttle final approach/Atlantis.att
+/Flights/Space Shuttle final approach/Atlantis.pos
+/Flights/Space Shuttle final approach/ISS.atc
+/Flights/Space Shuttle final approach/ISS.att
+/Flights/Space Shuttle final approach/ISS.pos
+/Flights/Space Shuttle final approach/system.dat
+/Flights/Space Shuttle to ISS/Atlantis-SRB1.atc
+/Flights/Space Shuttle to ISS/Atlantis-SRB1.att
+/Flights/Space Shuttle to ISS/Atlantis-SRB1.pos
+/Flights/Space Shuttle to ISS/Atlantis-SRB2.atc
+/Flights/Space Shuttle to ISS/Atlantis-SRB2.att
+/Flights/Space Shuttle to ISS/Atlantis-SRB2.pos
+/Flights/Space Shuttle to ISS/Atlantis.atc
+/Flights/Space Shuttle to ISS/Atlantis.att
+/Flights/Space Shuttle to ISS/Atlantis.pos
+/Flights/Space Shuttle to ISS/Atlantis_ET.atc
+/Flights/Space Shuttle to ISS/Atlantis_ET.att
+/Flights/Space Shuttle to ISS/Atlantis_ET.pos
+/Flights/Space Shuttle to ISS/ISS.atc
+/Flights/Space Shuttle to ISS/ISS.att
+/Flights/Space Shuttle to ISS/ISS.pos
+/Flights/Space Shuttle to ISS/Leonardo.atc
+/Flights/Space Shuttle to ISS/Leonardo.att
+/Flights/Space Shuttle to ISS/Leonardo.pos
+/Flights/Space Shuttle to ISS/system.dat
+/Flights/Welcome to Orbiter 2016/ISS.atc
+/Flights/Welcome to Orbiter 2016/ISS.att
+/Flights/Welcome to Orbiter 2016/ISS.pos
+/Flights/Welcome to Orbiter 2016/STS-101-SRB1.atc
+/Flights/Welcome to Orbiter 2016/STS-101-SRB1.att
+/Flights/Welcome to Orbiter 2016/STS-101-SRB1.pos
+/Flights/Welcome to Orbiter 2016/STS-101-SRB2.atc
+/Flights/Welcome to Orbiter 2016/STS-101-SRB2.att
+/Flights/Welcome to Orbiter 2016/STS-101-SRB2.pos
+/Flights/Welcome to Orbiter 2016/STS-101.atc
+/Flights/Welcome to Orbiter 2016/STS-101.att
+/Flights/Welcome to Orbiter 2016/STS-101.pos
+/Flights/Welcome to Orbiter 2016/STS-101_ET.atc
+/Flights/Welcome to Orbiter 2016/STS-101_ET.att
+/Flights/Welcome to Orbiter 2016/STS-101_ET.pos
+/Flights/Welcome to Orbiter 2016/system.dat
+/Flights/Welcome/Carina.atc
+/Flights/Welcome/Carina.att
+/Flights/Welcome/Carina.pos
+/Flights/Welcome/GL-01.atc
+/Flights/Welcome/GL-01.att
+/Flights/Welcome/GL-01.pos
+/Flights/Welcome/GL-M02.atc
+/Flights/Welcome/GL-M02.att
+/Flights/Welcome/GL-M02.pos
+/Flights/Welcome/Hubble.att
+/Flights/Welcome/Hubble.pos
+/Flights/Welcome/ISS.atc
+/Flights/Welcome/ISS.att
+/Flights/Welcome/ISS.pos
+/Flights/Welcome/PB-04.atc
+/Flights/Welcome/PB-04.att
+/Flights/Welcome/PB-04.pos
+/Flights/Welcome/SH-02.atc
+/Flights/Welcome/SH-02.att
+/Flights/Welcome/SH-02.pos
+/Flights/Welcome/STS-101.atc
+/Flights/Welcome/STS-101.att
+/Flights/Welcome/STS-101.pos
+/Flights/Welcome/STS-102.atc
+/Flights/Welcome/STS-102.att
+/Flights/Welcome/STS-102.pos
+/Flights/Welcome/STS-103.atc
+/Flights/Welcome/STS-103.att
+/Flights/Welcome/STS-103.pos
+/Flights/Welcome/STS-104.atc
+/Flights/Welcome/STS-104.att
+/Flights/Welcome/STS-104.pos
+/Flights/Welcome/SolarSail.att
+/Flights/Welcome/SolarSail.pos
+/Flights/Welcome/system.dat
+/Html/OrbitPrimer.chm
+/Html/Plugin/ScnEditor.chm
+/Html/Scenarios/CurrentState.htm
+/Html/Scenarios/CurrentState_img.htm
+/Html/Scenarios/Default/Alps2016.chm
+/Html/Scenarios/Default/Challenges/Challenge1.chm
+/Html/Scenarios/Default/Challenges/Challenge2.chm
+/Html/Scenarios/Default/Checklists/Checklist1.chm
+/Html/Scenarios/Default/Checklists/Checklist2.chm
+/Html/Scenarios/Default/Checklists/Checklist3.chm
+/Html/Scenarios/Default/Checklists/Quickstart.chm
+/Html/Scenarios/Default/Earthview2016.chm
+/Html/Scenarios/Default/KSCtour2016.chm
+/Html/Scenarios/Default/ShuttleAscentAp.chm
+/Html/Scenarios/Default/Welcome2010.chm
+/Html/Scenarios/Default/Welcome2016.chm
+/Html/Script/Stockvessels/DG/aap.chm
+/Html/Vessels/Atlantis.chm
+/Html/Vessels/DG-S.chm
+/Html/Vessels/DeltaGlider.chm
+/Html/credit.chm
+/Html/orbiter.chm
+/Images/Vessels/Default/Atlantis.bmp
+/Images/Vessels/Default/Atlantis_SRB.bmp
+/Images/Vessels/Default/Atlantis_tank.bmp
+/Images/Vessels/Default/Carina.bmp
+/Images/Vessels/Default/DG-S.bmp
+/Images/Vessels/Default/DeltaGlider.bmp
+/Images/Vessels/Default/Dragonfly.bmp
+/Images/Vessels/Default/HST.bmp
+/Images/Vessels/Default/LDEF.bmp
+/Images/Vessels/Default/Leonardo.bmp
+/Images/Vessels/Default/ProjectAlpha_ISS.bmp
+/Images/Vessels/Default/Shuttle-A.bmp
+/Images/Vessels/Default/nasa_mmu.bmp
+/Install/testvcr.exe
+/Install/vcredist_x86.exe
+/LuaInline.dll
+/LuaInterpreter.dll
+/Meshes/Atlantis/Atlantis.msh
+/Meshes/Atlantis/AtlantisCockpit.msh
+/Meshes/Atlantis/AtlantisVC.msh
+/Meshes/Atlantis/~AtlantisVC_lo.msh
+/Meshes/Atlantis_SRB.msh
+/Meshes/Atlantis_tank.msh
+/Meshes/Carina.msh
+/Meshes/Carina_cradle.msh
+/Meshes/Cyl.msh
+/Meshes/DG/deltaglider.msh
+/Meshes/DG/deltaglider_ns.msh
+/Meshes/DG/deltaglider_vc.msh
+/Meshes/DG/dg_2dpanel0.msh
+/Meshes/DG/dg_2dpanel1.msh
+/Meshes/Deimos.msh
+/Meshes/Dragonfly.msh
+/Meshes/HST_STS-109.msh
+/Meshes/Habana_taxiway.msh
+/Meshes/Hyperion.msh
+/Meshes/ISS.msh
+/Meshes/KLC39B.msh
+/Meshes/KLC39Bground.msh
+/Meshes/KSC_1.msh
+/Meshes/KSC_10.msh
+/Meshes/KSC_2.msh
+/Meshes/KSC_3.msh
+/Meshes/KSC_4.msh
+/Meshes/KSC_5.msh
+/Meshes/KSC_7.msh
+/Meshes/KSC_8.msh
+/Meshes/KSC_9.msh
+/Meshes/LDEF.msh
+/Meshes/Leonardo_mplm.msh
+/Meshes/Luna-OB1.msh
+/Meshes/Mir.msh
+/Meshes/Module1.msh
+/Meshes/Module2.msh
+/Meshes/Phobos.msh
+/Meshes/ProjectAlpha_ISS.msh
+/Meshes/ShuttleA.msh
+/Meshes/ShuttleA/ShuttleA.msh
+/Meshes/ShuttleA/ShuttleA_2dpanel1.msh
+/Meshes/ShuttleA/ShuttleA_chmain.msh
+/Meshes/ShuttleA/ShuttleA_chpr.msh
+/Meshes/ShuttleA/ShuttleA_pl.msh
+/Meshes/ShuttleA/ShuttleA_vc.msh
+/Meshes/ShuttlePB.msh
+/Meshes/SolarSail.msh
+/Meshes/Surf1.msh
+/Meshes/Tarmac2.msh
+/Meshes/Taxiway1.msh
+/Meshes/Vab.msh
+/Meshes/Wheel.msh
+/Meshes/docking.msh
+/Meshes/mmu.msh
+/Meshes/mplm.msh
+/Meshes/shuttle_eva_plat.msh
+/Orbiter_ng.exe
+/Orbitersdk/doc/3DModel.pdf
+/Orbitersdk/doc/API_Guide.pdf
+/Orbitersdk/doc/API_Reference.chm
+/Orbitersdk/doc/API_Reference.pdf
+/Orbitersdk/html/Orbiter.css
+/Orbitersdk/html/master.js
+/Orbitersdk/include/CamAPI.h
+/Orbitersdk/include/CelBodyAPI.h
+/Orbitersdk/include/DlgCtrl.h
+/Orbitersdk/include/DrawAPI.h
+/Orbitersdk/include/GraphicsAPI.h
+/Orbitersdk/include/Interpreter.h
+/Orbitersdk/include/Lua/lauxlib.h
+/Orbitersdk/include/Lua/lua.h
+/Orbitersdk/include/Lua/lua.hpp
+/Orbitersdk/include/Lua/luaconf.h
+/Orbitersdk/include/Lua/lualib.h
+/Orbitersdk/include/MFDAPI.h
+/Orbitersdk/include/ModuleAPI.h
+/Orbitersdk/include/OrbiterAPI.h
+/Orbitersdk/include/Orbitersdk.h
+/Orbitersdk/include/ScnEditorAPI.h
+/Orbitersdk/include/VesselAPI.h
+/Orbitersdk/include/resource_video.h
+/Orbitersdk/lib/DlgCtrl.lib
+/Orbitersdk/lib/GDIClient.lib
+/Orbitersdk/lib/Lua/lua5.1.dll
+/Orbitersdk/lib/Lua/lua5.1.lib
+/Orbitersdk/lib/Lua/lua51.dll
+/Orbitersdk/lib/Lua/lua51.lib
+/Orbitersdk/lib/Orbitersdk.lib
+/Orbitersdk/lib/orbiter.lib
+/Orbitersdk/resources/Orbiter debug.vsprops
+/Orbitersdk/resources/Orbiter plugin.vsprops
+/Orbitersdk/resources/Orbiter vessel.vsprops
+/Orbitersdk/resources/Orbiter.vsprops
+/Orbitersdk/resources/orbiter.rules
+/Orbitersdk/resources/orbiterroot.vsprops
+/Orbitersdk/samples/Atlantis/Atlantis.sln
+/Orbitersdk/samples/Atlantis/Atlantis.vcproj
+/Orbitersdk/samples/Atlantis/Atlantis/AscentAP.cpp
+/Orbitersdk/samples/Atlantis/Atlantis/AscentAP.h
+/Orbitersdk/samples/Atlantis/Atlantis/Atlantis.cpp
+/Orbitersdk/samples/Atlantis/Atlantis/Atlantis.h
+/Orbitersdk/samples/Atlantis/Atlantis/Atlantis.rc
+/Orbitersdk/samples/Atlantis/Atlantis/PlBayOp.cpp
+/Orbitersdk/samples/Atlantis/Atlantis/PlBayOp.h
+/Orbitersdk/samples/Atlantis/Atlantis/down.ico
+/Orbitersdk/samples/Atlantis/Atlantis/ico00001.ico
+/Orbitersdk/samples/Atlantis/Atlantis/ico00002.ico
+/Orbitersdk/samples/Atlantis/Atlantis/ico00003.ico
+/Orbitersdk/samples/Atlantis/Atlantis/ico00004.ico
+/Orbitersdk/samples/Atlantis/Atlantis/icon1.ico
+/Orbitersdk/samples/Atlantis/Atlantis/resource.h
+/Orbitersdk/samples/Atlantis/AtlantisConfig.vcproj
+/Orbitersdk/samples/Atlantis/AtlantisConfig/AC_resource.h
+/Orbitersdk/samples/Atlantis/AtlantisConfig/AConfigurator.rc
+/Orbitersdk/samples/Atlantis/AtlantisConfig/AtlantisConfig.cpp
+/Orbitersdk/samples/Atlantis/Atlantis_SRB.vcproj
+/Orbitersdk/samples/Atlantis/Atlantis_SRB/Atlantis_SRB.cpp
+/Orbitersdk/samples/Atlantis/Atlantis_Tank.vcproj
+/Orbitersdk/samples/Atlantis/Atlantis_Tank/Atlantis_Tank.cpp
+/Orbitersdk/samples/Atlantis/Bitmaps/label.bmp
+/Orbitersdk/samples/Atlantis/Bitmaps/talkback.bmp
+/Orbitersdk/samples/Atlantis/Bitmaps/tkbk_label.bmp
+/Orbitersdk/samples/Atlantis/Common.cpp
+/Orbitersdk/samples/Atlantis/Help/Atlantis.hhc
+/Orbitersdk/samples/Atlantis/Help/Atlantis.hhk
+/Orbitersdk/samples/Atlantis/Help/Atlantis.hhp
+/Orbitersdk/samples/Atlantis/Help/Atlantis.htm
+/Orbitersdk/samples/Atlantis/Help/BayOp.htm
+/Orbitersdk/samples/Atlantis/Help/BaydoorOp.htm
+/Orbitersdk/samples/Atlantis/Help/KubandOp.htm
+/Orbitersdk/samples/Atlantis/Help/RadiatorOp.htm
+/Orbitersdk/samples/Common/Dialog/Graph.cpp
+/Orbitersdk/samples/Common/Dialog/Graph.h
+/Orbitersdk/samples/Common/Dialog/TabDlg.cpp
+/Orbitersdk/samples/Common/Dialog/TabDlg.h
+/Orbitersdk/samples/Common/Vessel/Instrument.cpp
+/Orbitersdk/samples/Common/Vessel/Instrument.h
+/Orbitersdk/samples/CustomMFD/CustomMFD.cpp
+/Orbitersdk/samples/CustomMFD/CustomMFD.h
+/Orbitersdk/samples/CustomMFD/CustomMFD.sln
+/Orbitersdk/samples/CustomMFD/CustomMFD.vcproj
+/Orbitersdk/samples/DeltaGlider/AAPSubsys.cpp
+/Orbitersdk/samples/DeltaGlider/AAPSubsys.h
+/Orbitersdk/samples/DeltaGlider/AerodynSubsys.cpp
+/Orbitersdk/samples/DeltaGlider/AerodynSubsys.h
+/Orbitersdk/samples/DeltaGlider/AvionicsSubsys.cpp
+/Orbitersdk/samples/DeltaGlider/AvionicsSubsys.h
+/Orbitersdk/samples/DeltaGlider/Bitmaps/Lever1.bmp
+/Orbitersdk/samples/DeltaGlider/Bitmaps/MFDButton.bmp
+/Orbitersdk/samples/DeltaGlider/Bitmaps/Slider1.bmp
+/Orbitersdk/samples/DeltaGlider/Bitmaps/Slider2.bmp
+/Orbitersdk/samples/DeltaGlider/Bitmaps/Switch1.bmp
+/Orbitersdk/samples/DeltaGlider/Bitmaps/Switch2.bmp
+/Orbitersdk/samples/DeltaGlider/Bitmaps/Switch3.bmp
+/Orbitersdk/samples/DeltaGlider/Bitmaps/Switch4.bmp
+/Orbitersdk/samples/DeltaGlider/Bitmaps/Switch4r.bmp
+/Orbitersdk/samples/DeltaGlider/Bitmaps/VC1.bmp
+/Orbitersdk/samples/DeltaGlider/Bitmaps/VC2.bmp
+/Orbitersdk/samples/DeltaGlider/Bitmaps/VC3.bmp
+/Orbitersdk/samples/DeltaGlider/Bitmaps/idpanel1.bmp
+/Orbitersdk/samples/DeltaGlider/CoolingSubsys.cpp
+/Orbitersdk/samples/DeltaGlider/CoolingSubsys.h
+/Orbitersdk/samples/DeltaGlider/DGConfigurator.vcproj
+/Orbitersdk/samples/DeltaGlider/DGConfigurator/DGC_resource.h
+/Orbitersdk/samples/DeltaGlider/DGConfigurator/DGConfigurator.cpp
+/Orbitersdk/samples/DeltaGlider/DGConfigurator/DGConfigurator.rc
+/Orbitersdk/samples/DeltaGlider/DGLua.cpp
+/Orbitersdk/samples/DeltaGlider/DGSubsys.cpp
+/Orbitersdk/samples/DeltaGlider/DGSubsys.h
+/Orbitersdk/samples/DeltaGlider/DGSwitches.cpp
+/Orbitersdk/samples/DeltaGlider/DGSwitches.h
+/Orbitersdk/samples/DeltaGlider/DeltaGlider.cpp
+/Orbitersdk/samples/DeltaGlider/DeltaGlider.h
+/Orbitersdk/samples/DeltaGlider/DeltaGlider.rc
+/Orbitersdk/samples/DeltaGlider/DeltaGlider.sln
+/Orbitersdk/samples/DeltaGlider/DeltaGlider.vcproj
+/Orbitersdk/samples/DeltaGlider/DockingSubsys.cpp
+/Orbitersdk/samples/DeltaGlider/DockingSubsys.h
+/Orbitersdk/samples/DeltaGlider/FailureSubsys.cpp
+/Orbitersdk/samples/DeltaGlider/FailureSubsys.h
+/Orbitersdk/samples/DeltaGlider/FuelMfd.cpp
+/Orbitersdk/samples/DeltaGlider/FuelMfd.h
+/Orbitersdk/samples/DeltaGlider/GearSubsys.cpp
+/Orbitersdk/samples/DeltaGlider/GearSubsys.h
+/Orbitersdk/samples/DeltaGlider/Help/AAP/OrbiterAPI.css
+/Orbitersdk/samples/DeltaGlider/Help/AAP/aap.hhp
+/Orbitersdk/samples/DeltaGlider/Help/AAP/aap.htm
+/Orbitersdk/samples/DeltaGlider/Help/DG-S.hhc
+/Orbitersdk/samples/DeltaGlider/Help/DG-S.hhp
+/Orbitersdk/samples/DeltaGlider/Help/DG-S.htm
+/Orbitersdk/samples/DeltaGlider/Help/DG-Sdata.htm
+/Orbitersdk/samples/DeltaGlider/Help/DGSVC.htm
+/Orbitersdk/samples/DeltaGlider/Help/DGSVC.jpg
+/Orbitersdk/samples/DeltaGlider/Help/DGSpanel1_small.jpg
+/Orbitersdk/samples/DeltaGlider/Help/DGSpanel2_small.jpg
+/Orbitersdk/samples/DeltaGlider/Help/DGSpanels.htm
+/Orbitersdk/samples/DeltaGlider/Help/DGVC.htm
+/Orbitersdk/samples/DeltaGlider/Help/DGVC.jpg
+/Orbitersdk/samples/DeltaGlider/Help/DGVCpos.htm
+/Orbitersdk/samples/DeltaGlider/Help/DGVCpos.jpg
+/Orbitersdk/samples/DeltaGlider/Help/DG_SE.htm
+/Orbitersdk/samples/DeltaGlider/Help/DGdata.htm
+/Orbitersdk/samples/DeltaGlider/Help/DGp1a.gif
+/Orbitersdk/samples/DeltaGlider/Help/DGp1b.gif
+/Orbitersdk/samples/DeltaGlider/Help/DGp1c.gif
+/Orbitersdk/samples/DeltaGlider/Help/DGp1d.gif
+/Orbitersdk/samples/DeltaGlider/Help/DGp1e.gif
+/Orbitersdk/samples/DeltaGlider/Help/DGp1f.gif
+/Orbitersdk/samples/DeltaGlider/Help/DGp1g.gif
+/Orbitersdk/samples/DeltaGlider/Help/DGp1h.gif
+/Orbitersdk/samples/DeltaGlider/Help/DGp1i.gif
+/Orbitersdk/samples/DeltaGlider/Help/DGp1j.gif
+/Orbitersdk/samples/DeltaGlider/Help/DGp1m.gif
+/Orbitersdk/samples/DeltaGlider/Help/DGp1n.gif
+/Orbitersdk/samples/DeltaGlider/Help/DGp1o.gif
+/Orbitersdk/samples/DeltaGlider/Help/DGp1p.gif
+/Orbitersdk/samples/DeltaGlider/Help/DGp1q.gif
+/Orbitersdk/samples/DeltaGlider/Help/DGp1r.gif
+/Orbitersdk/samples/DeltaGlider/Help/DGp1s.gif
+/Orbitersdk/samples/DeltaGlider/Help/DGp1t.gif
+/Orbitersdk/samples/DeltaGlider/Help/DGp1u.gif
+/Orbitersdk/samples/DeltaGlider/Help/DGp1v.gif
+/Orbitersdk/samples/DeltaGlider/Help/DGp1w.gif
+/Orbitersdk/samples/DeltaGlider/Help/DGp2a.gif
+/Orbitersdk/samples/DeltaGlider/Help/DGp2b.gif
+/Orbitersdk/samples/DeltaGlider/Help/DGp2c.gif
+/Orbitersdk/samples/DeltaGlider/Help/DGpanel1_small.jpg
+/Orbitersdk/samples/DeltaGlider/Help/DGpanel2_small.jpg
+/Orbitersdk/samples/DeltaGlider/Help/DGpanel3_small.jpg
+/Orbitersdk/samples/DeltaGlider/Help/DGpanels.htm
+/Orbitersdk/samples/DeltaGlider/Help/DGscram.htm
+/Orbitersdk/samples/DeltaGlider/Help/DGscram1.gif
+/Orbitersdk/samples/DeltaGlider/Help/DGscram2.gif
+/Orbitersdk/samples/DeltaGlider/Help/DGscram3.gif
+/Orbitersdk/samples/DeltaGlider/Help/DeltaGlider.hhc
+/Orbitersdk/samples/DeltaGlider/Help/DeltaGlider.hhp
+/Orbitersdk/samples/DeltaGlider/Help/DeltaGlider.htm
+/Orbitersdk/samples/DeltaGlider/Help/DeltaGlider1.jpg
+/Orbitersdk/samples/DeltaGlider/Help/SE_Anim.htm
+/Orbitersdk/samples/DeltaGlider/Horizon.cpp
+/Orbitersdk/samples/DeltaGlider/Horizon.h
+/Orbitersdk/samples/DeltaGlider/HoverSubsys.cpp
+/Orbitersdk/samples/DeltaGlider/HoverSubsys.h
+/Orbitersdk/samples/DeltaGlider/HudCtrl.cpp
+/Orbitersdk/samples/DeltaGlider/HudCtrl.h
+/Orbitersdk/samples/DeltaGlider/InstrAoa.cpp
+/Orbitersdk/samples/DeltaGlider/InstrAoa.h
+/Orbitersdk/samples/DeltaGlider/InstrHsi.cpp
+/Orbitersdk/samples/DeltaGlider/InstrHsi.h
+/Orbitersdk/samples/DeltaGlider/InstrVs.cpp
+/Orbitersdk/samples/DeltaGlider/InstrVs.h
+/Orbitersdk/samples/DeltaGlider/LightSubsys.cpp
+/Orbitersdk/samples/DeltaGlider/LightSubsys.h
+/Orbitersdk/samples/DeltaGlider/MainRetroSubsys.cpp
+/Orbitersdk/samples/DeltaGlider/MainRetroSubsys.h
+/Orbitersdk/samples/DeltaGlider/MfdSubsys.cpp
+/Orbitersdk/samples/DeltaGlider/MfdSubsys.h
+/Orbitersdk/samples/DeltaGlider/MomentInd.cpp
+/Orbitersdk/samples/DeltaGlider/MomentInd.h
+/Orbitersdk/samples/DeltaGlider/PressureSubsys.cpp
+/Orbitersdk/samples/DeltaGlider/PressureSubsys.h
+/Orbitersdk/samples/DeltaGlider/RcsSubsys.cpp
+/Orbitersdk/samples/DeltaGlider/RcsSubsys.h
+/Orbitersdk/samples/DeltaGlider/ScramSubsys.cpp
+/Orbitersdk/samples/DeltaGlider/ScramSubsys.h
+/Orbitersdk/samples/DeltaGlider/dg_vc_anim.h
+/Orbitersdk/samples/DeltaGlider/meshres.h
+/Orbitersdk/samples/DeltaGlider/resource.h
+/Orbitersdk/samples/DialogTemplate/DialogTemplate.cpp
+/Orbitersdk/samples/DialogTemplate/DialogTemplate.rc
+/Orbitersdk/samples/DialogTemplate/DialogTemplate.sln
+/Orbitersdk/samples/DialogTemplate/DialogTemplate.vcproj
+/Orbitersdk/samples/DialogTemplate/resource.h
+/Orbitersdk/samples/Dragonfly/ADIborder.bmp
+/Orbitersdk/samples/Dragonfly/Dial1.bmp
+/Orbitersdk/samples/Dragonfly/Dragonfly.cpp
+/Orbitersdk/samples/Dragonfly/Dragonfly.h
+/Orbitersdk/samples/Dragonfly/Dragonfly.sln
+/Orbitersdk/samples/Dragonfly/Dragonfly.vcproj
+/Orbitersdk/samples/Dragonfly/Esystems.cpp
+/Orbitersdk/samples/Dragonfly/Esystems.h
+/Orbitersdk/samples/Dragonfly/Fonts.bmp
+/Orbitersdk/samples/Dragonfly/Hsystems.cpp
+/Orbitersdk/samples/Dragonfly/Hsystems.h
+/Orbitersdk/samples/Dragonfly/Internal.cpp
+/Orbitersdk/samples/Dragonfly/Internal.h
+/Orbitersdk/samples/Dragonfly/MFD.bmp
+/Orbitersdk/samples/Dragonfly/Matrix.cpp
+/Orbitersdk/samples/Dragonfly/Panel.h
+/Orbitersdk/samples/Dragonfly/PanelDef.h
+/Orbitersdk/samples/Dragonfly/SL.bmp
+/Orbitersdk/samples/Dragonfly/Switch1.bmp
+/Orbitersdk/samples/Dragonfly/Switch2.bmp
+/Orbitersdk/samples/Dragonfly/Thermal.cpp
+/Orbitersdk/samples/Dragonfly/Thermal.h
+/Orbitersdk/samples/Dragonfly/Up.bmp
+/Orbitersdk/samples/Dragonfly/cb.bmp
+/Orbitersdk/samples/Dragonfly/cw.bmp
+/Orbitersdk/samples/Dragonfly/dock.bmp
+/Orbitersdk/samples/Dragonfly/dragon.bmp
+/Orbitersdk/samples/Dragonfly/dragon2.bmp
+/Orbitersdk/samples/Dragonfly/egauge.bmp
+/Orbitersdk/samples/Dragonfly/front.bmp
+/Orbitersdk/samples/Dragonfly/fuel.bmp
+/Orbitersdk/samples/Dragonfly/gauge.bmp
+/Orbitersdk/samples/Dragonfly/grill.bmp
+/Orbitersdk/samples/Dragonfly/instruments.cpp
+/Orbitersdk/samples/Dragonfly/instruments.h
+/Orbitersdk/samples/Dragonfly/left.bmp
+/Orbitersdk/samples/Dragonfly/matrix.h
+/Orbitersdk/samples/Dragonfly/nav.bmp
+/Orbitersdk/samples/Dragonfly/panel.cpp
+/Orbitersdk/samples/Dragonfly/panel.rc
+/Orbitersdk/samples/Dragonfly/quaternion.cpp
+/Orbitersdk/samples/Dragonfly/quaternion.h
+/Orbitersdk/samples/Dragonfly/rad2.bmp
+/Orbitersdk/samples/Dragonfly/radar.bmp
+/Orbitersdk/samples/Dragonfly/radar2.bmp
+/Orbitersdk/samples/Dragonfly/resource.h
+/Orbitersdk/samples/Dragonfly/right.bmp
+/Orbitersdk/samples/Dragonfly/rotary.bmp
+/Orbitersdk/samples/Dragonfly/switch.bmp
+/Orbitersdk/samples/Dragonfly/tb.bmp
+/Orbitersdk/samples/Dragonfly/vectors.cpp
+/Orbitersdk/samples/Dragonfly/vectors.h
+/Orbitersdk/samples/Dragonfly/vrot.bmp
+/Orbitersdk/samples/Dragonfly/vrotbk.bmp
+/Orbitersdk/samples/Dragonfly/warn.bmp
+/Orbitersdk/samples/ExtMFD/Bitmaps/bt_stick.bmp
+/Orbitersdk/samples/ExtMFD/ExtMFD.cpp
+/Orbitersdk/samples/ExtMFD/ExtMFD.rc
+/Orbitersdk/samples/ExtMFD/ExtMFD.sln
+/Orbitersdk/samples/ExtMFD/ExtMFD.vcproj
+/Orbitersdk/samples/ExtMFD/MFDWindow.cpp
+/Orbitersdk/samples/ExtMFD/MFDWindow.h
+/Orbitersdk/samples/ExtMFD/resource.h
+/Orbitersdk/samples/FlightData/FDGraph.cpp
+/Orbitersdk/samples/FlightData/FDGraph.h
+/Orbitersdk/samples/FlightData/FlightData.cpp
+/Orbitersdk/samples/FlightData/FlightData.rc
+/Orbitersdk/samples/FlightData/FlightData.sln
+/Orbitersdk/samples/FlightData/FlightData.vcproj
+/Orbitersdk/samples/FlightData/resource.h
+/Orbitersdk/samples/Framerate/Framerate.cpp
+/Orbitersdk/samples/Framerate/Framerate.rc
+/Orbitersdk/samples/Framerate/Framerate.sln
+/Orbitersdk/samples/Framerate/Framerate.vcproj
+/Orbitersdk/samples/Framerate/resource.h
+/Orbitersdk/samples/LaunchpadParamTemplate/LParam.cpp
+/Orbitersdk/samples/LaunchpadParamTemplate/LParam.rc
+/Orbitersdk/samples/LaunchpadParamTemplate/LaunchpadParamTemplate.sln
+/Orbitersdk/samples/LaunchpadParamTemplate/LaunchpadParamTemplate.vcproj
+/Orbitersdk/samples/LaunchpadParamTemplate/resource.h
+/Orbitersdk/samples/LuaScript/Help.vcproj
+/Orbitersdk/samples/LuaScript/Lua/dll/lua5.1.dll
+/Orbitersdk/samples/LuaScript/Lua/dll/lua5.1.lib
+/Orbitersdk/samples/LuaScript/Lua/dll/lua51.dll
+/Orbitersdk/samples/LuaScript/Lua/dll/lua51.lib
+/Orbitersdk/samples/LuaScript/Lua/include/lauxlib.h
+/Orbitersdk/samples/LuaScript/Lua/include/lua.h
+/Orbitersdk/samples/LuaScript/Lua/include/lua.hpp
+/Orbitersdk/samples/LuaScript/Lua/include/luaconf.h
+/Orbitersdk/samples/LuaScript/Lua/include/lualib.h
+/Orbitersdk/samples/LuaScript/Lua/lib/lua5.1.lib
+/Orbitersdk/samples/LuaScript/LuaConsole.vcproj
+/Orbitersdk/samples/LuaScript/LuaConsole/ConsoleCfg.cpp
+/Orbitersdk/samples/LuaScript/LuaConsole/ConsoleCfg.h
+/Orbitersdk/samples/LuaScript/LuaConsole/ConsoleInterpreter.cpp
+/Orbitersdk/samples/LuaScript/LuaConsole/ConsoleInterpreter.h
+/Orbitersdk/samples/LuaScript/LuaConsole/LuaConsole.cpp
+/Orbitersdk/samples/LuaScript/LuaConsole/LuaConsole.h
+/Orbitersdk/samples/LuaScript/LuaConsole/LuaConsole.rc
+/Orbitersdk/samples/LuaScript/LuaConsole/resource.h
+/Orbitersdk/samples/LuaScript/LuaInline.vcproj
+/Orbitersdk/samples/LuaScript/LuaInline/LuaInline.cpp
+/Orbitersdk/samples/LuaScript/LuaInline/LuaInline.h
+/Orbitersdk/samples/LuaScript/LuaInterpreter.vcproj
+/Orbitersdk/samples/LuaScript/LuaInterpreter/Interpreter.cpp
+/Orbitersdk/samples/LuaScript/LuaInterpreter/Interpreter.h
+/Orbitersdk/samples/LuaScript/LuaMFD.vcproj
+/Orbitersdk/samples/LuaScript/LuaMFD/LuaMFD.cpp
+/Orbitersdk/samples/LuaScript/LuaMFD/LuaMFD.h
+/Orbitersdk/samples/LuaScript/LuaMFD/MfdInterpreter.cpp
+/Orbitersdk/samples/LuaScript/LuaMFD/MfdInterpreter.h
+/Orbitersdk/samples/LuaScript/LuaScript.sln
+/Orbitersdk/samples/MFDTemplate/MFDTemplate.cpp
+/Orbitersdk/samples/MFDTemplate/MFDTemplate.h
+/Orbitersdk/samples/MFDTemplate/MFDTemplate.sln
+/Orbitersdk/samples/MFDTemplate/MFDTemplate.vcproj
+/Orbitersdk/samples/Meshdebug/Meshdebug.cpp
+/Orbitersdk/samples/Meshdebug/Meshdebug.rc
+/Orbitersdk/samples/Meshdebug/Meshdebug.sln
+/Orbitersdk/samples/Meshdebug/Meshdebug.vcproj
+/Orbitersdk/samples/Meshdebug/resource.h
+/Orbitersdk/samples/Rcontrol/Rcontrol.cpp
+/Orbitersdk/samples/Rcontrol/Rcontrol.rc
+/Orbitersdk/samples/Rcontrol/Rcontrol.sln
+/Orbitersdk/samples/Rcontrol/Rcontrol.vcproj
+/Orbitersdk/samples/Rcontrol/resource.h
+/Orbitersdk/samples/ScnEditor/Bitmaps/File1.bmp
+/Orbitersdk/samples/ScnEditor/Bitmaps/File2.bmp
+/Orbitersdk/samples/ScnEditor/Bitmaps/Folder1.bmp
+/Orbitersdk/samples/ScnEditor/Bitmaps/Folder2.bmp
+/Orbitersdk/samples/ScnEditor/Bitmaps/pause.bmp
+/Orbitersdk/samples/ScnEditor/Convert.cpp
+/Orbitersdk/samples/ScnEditor/Convert.h
+/Orbitersdk/samples/ScnEditor/Editor.cpp
+/Orbitersdk/samples/ScnEditor/Editor.h
+/Orbitersdk/samples/ScnEditor/Help/AngularVel.htm
+/Orbitersdk/samples/ScnEditor/Help/Date.htm
+/Orbitersdk/samples/ScnEditor/Help/DelVessel.htm
+/Orbitersdk/samples/ScnEditor/Help/Docking.htm
+/Orbitersdk/samples/ScnEditor/Help/EditVessel.htm
+/Orbitersdk/samples/ScnEditor/Help/Elements.htm
+/Orbitersdk/samples/ScnEditor/Help/Location.htm
+/Orbitersdk/samples/ScnEditor/Help/NewVessel.htm
+/Orbitersdk/samples/ScnEditor/Help/Orientation.htm
+/Orbitersdk/samples/ScnEditor/Help/Propellant.htm
+/Orbitersdk/samples/ScnEditor/Help/Readme.txt
+/Orbitersdk/samples/ScnEditor/Help/SaveScenario.htm
+/Orbitersdk/samples/ScnEditor/Help/ScnEditor.hhc
+/Orbitersdk/samples/ScnEditor/Help/ScnEditor.hhk
+/Orbitersdk/samples/ScnEditor/Help/ScnEditor.hhp
+/Orbitersdk/samples/ScnEditor/Help/ScnEditor.htm
+/Orbitersdk/samples/ScnEditor/Help/Statevec.htm
+/Orbitersdk/samples/ScnEditor/Help/rmat.gif
+/Orbitersdk/samples/ScnEditor/ScnEditor.cpp
+/Orbitersdk/samples/ScnEditor/ScnEditor.rc
+/Orbitersdk/samples/ScnEditor/ScnEditor.sln
+/Orbitersdk/samples/ScnEditor/ScnEditor.vcproj
+/Orbitersdk/samples/ScnEditor/resource.h
+/Orbitersdk/samples/ScriptMFD/ScriptMFD.cpp
+/Orbitersdk/samples/ScriptMFD/ScriptMFD.h
+/Orbitersdk/samples/ScriptMFD/ScriptMFD.sln
+/Orbitersdk/samples/ScriptMFD/ScriptMFD.vcproj
+/Orbitersdk/samples/ScriptVessel/ScriptVessel.cpp
+/Orbitersdk/samples/ScriptVessel/ScriptVessel.sln
+/Orbitersdk/samples/ScriptVessel/ScriptVessel.vcproj
+/Orbitersdk/samples/ShuttleA/Bitmaps/FuelMgmt.bmp
+/Orbitersdk/samples/ShuttleA/Bitmaps/button1.bmp
+/Orbitersdk/samples/ShuttleA/Bitmaps/button2.bmp
+/Orbitersdk/samples/ShuttleA/Bitmaps/button3.bmp
+/Orbitersdk/samples/ShuttleA/Bitmaps/indicator1.bmp
+/Orbitersdk/samples/ShuttleA/Bitmaps/indicator2.bmp
+/Orbitersdk/samples/ShuttleA/Bitmaps/panel1.bmp
+/Orbitersdk/samples/ShuttleA/Bitmaps/panel2.bmp
+/Orbitersdk/samples/ShuttleA/Bitmaps/slider1.bmp
+/Orbitersdk/samples/ShuttleA/Bitmaps/switch1.bmp
+/Orbitersdk/samples/ShuttleA/Bitmaps/switch2.bmp
+/Orbitersdk/samples/ShuttleA/Bitmaps/switch3.bmp
+/Orbitersdk/samples/ShuttleA/Bitmaps/switch4.bmp
+/Orbitersdk/samples/ShuttleA/InstrVs.cpp
+/Orbitersdk/samples/ShuttleA/InstrVs.h
+/Orbitersdk/samples/ShuttleA/ShuttleA.cpp
+/Orbitersdk/samples/ShuttleA/ShuttleA.h
+/Orbitersdk/samples/ShuttleA/ShuttleA.rc
+/Orbitersdk/samples/ShuttleA/ShuttleA.sln
+/Orbitersdk/samples/ShuttleA/ShuttleA.vcproj
+/Orbitersdk/samples/ShuttleA/ShuttleALua.cpp
+/Orbitersdk/samples/ShuttleA/ShuttleA_PL.vcproj
+/Orbitersdk/samples/ShuttleA/ShuttleA_PL/ShuttleA_pl.cpp
+/Orbitersdk/samples/ShuttleA/ShuttleA_PL/ShuttleA_pl.h
+/Orbitersdk/samples/ShuttleA/adiball.cpp
+/Orbitersdk/samples/ShuttleA/adiball.h
+/Orbitersdk/samples/ShuttleA/adictrl.cpp
+/Orbitersdk/samples/ShuttleA/adictrl.h
+/Orbitersdk/samples/ShuttleA/airlockswitch.cpp
+/Orbitersdk/samples/ShuttleA/airlockswitch.h
+/Orbitersdk/samples/ShuttleA/attref.cpp
+/Orbitersdk/samples/ShuttleA/attref.h
+/Orbitersdk/samples/ShuttleA/auxpodctrl.cpp
+/Orbitersdk/samples/ShuttleA/auxpodctrl.h
+/Orbitersdk/samples/ShuttleA/dockcvrswitch.cpp
+/Orbitersdk/samples/ShuttleA/dockcvrswitch.h
+/Orbitersdk/samples/ShuttleA/gearswitch.cpp
+/Orbitersdk/samples/ShuttleA/gearswitch.h
+/Orbitersdk/samples/ShuttleA/hudbutton.cpp
+/Orbitersdk/samples/ShuttleA/hudbutton.h
+/Orbitersdk/samples/ShuttleA/mfdbutton.cpp
+/Orbitersdk/samples/ShuttleA/mfdbutton.h
+/Orbitersdk/samples/ShuttleA/navbutton.cpp
+/Orbitersdk/samples/ShuttleA/navbutton.h
+/Orbitersdk/samples/ShuttleA/needlepair.cpp
+/Orbitersdk/samples/ShuttleA/needlepair.h
+/Orbitersdk/samples/ShuttleA/paneltext.cpp
+/Orbitersdk/samples/ShuttleA/paneltext.h
+/Orbitersdk/samples/ShuttleA/payloadctrl.cpp
+/Orbitersdk/samples/ShuttleA/payloadctrl.h
+/Orbitersdk/samples/ShuttleA/rcsswitch.cpp
+/Orbitersdk/samples/ShuttleA/rcsswitch.h
+/Orbitersdk/samples/ShuttleA/resource.h
+/Orbitersdk/samples/ShuttleA/sliderpair.cpp
+/Orbitersdk/samples/ShuttleA/sliderpair.h
+/Orbitersdk/samples/ShuttleA/switches.cpp
+/Orbitersdk/samples/ShuttleA/switches.h
+/Orbitersdk/samples/ShuttlePB/ShuttlePB.cpp
+/Orbitersdk/samples/ShuttlePB/ShuttlePB.sln
+/Orbitersdk/samples/ShuttlePB/ShuttlePB.vcproj
+/Orbitersdk/samples/Solarsail/SailLua.cpp
+/Orbitersdk/samples/Solarsail/SolarSail.h
+/Orbitersdk/samples/Solarsail/Solarsail.cpp
+/Orbitersdk/samples/Solarsail/Solarsail.sln
+/Orbitersdk/samples/Solarsail/Solarsail.vcproj
+/Orbitersdk/samples/hst/HST.cpp
+/Orbitersdk/samples/hst/HST.h
+/Orbitersdk/samples/hst/HST.sln
+/Orbitersdk/samples/hst/HST.vcproj
+/Orbitersdk/samples/hst/HST_Lua.cpp
+/Orbitersdk/samples/mmu/mmu.cpp
+/Orbitersdk/samples/mmu/mmu.sln
+/Orbitersdk/samples/mmu/mmu.vcproj
+/Orbitersdk/utils/Shipedit.exe
+/Orbitersdk/utils/meshc.exe
+/Scenarios/(Current state).scn
+/Scenarios/2016 Edition/# Welcome to Orbiter 2016.scn
+/Scenarios/2016 Edition/3 Minute Tour of Kennedy Space Center.scn
+/Scenarios/2016 Edition/City lights at night.scn
+/Scenarios/2016 Edition/Cruising above Florida.scn
+/Scenarios/2016 Edition/Description.txt
+/Scenarios/2016 Edition/Earth views.scn
+/Scenarios/2016 Edition/KSC Update.scn
+/Scenarios/2016 Edition/Solar system.scn
+/Scenarios/2016 Edition/Space Shuttle ascent autopilot.scn
+/Scenarios/2016 Edition/Space Shuttle to ISS.scn
+/Scenarios/2016 Edition/Spotlights.scn
+/Scenarios/2016 Edition/Surface impact model.scn
+/Scenarios/2016 Edition/The Alps in 3D.scn
+/Scenarios/Challenges/Challenge 1 - Launch and docking.scn
+/Scenarios/Challenges/Challenge 2 - Lunar transfer.scn
+/Scenarios/Challenges/Challenge 3 - Advanced lunar transfer.scn
+/Scenarios/Challenges/Challenge 4 - Entry and landing.scn
+/Scenarios/Challenges/Description.txt
+/Scenarios/Checklists/Description.txt
+/Scenarios/Checklists/Mission 1 - DG to ISS.scn
+/Scenarios/Checklists/Mission 2 - ISS to Mir.scn
+/Scenarios/Checklists/Mission 3 - Deorbit.scn
+/Scenarios/Checklists/Quickstart.scn
+/Scenarios/Delta-glider/Animated control surfaces.scn
+/Scenarios/Delta-glider/Atmospheric autopilot.scn
+/Scenarios/Delta-glider/Brighton Beach.scn
+/Scenarios/Delta-glider/Cape Canaveral.scn
+/Scenarios/Delta-glider/DG Mk4 in orbit.scn
+/Scenarios/Delta-glider/DG and DG-S.scn
+/Scenarios/Delta-glider/DG-S ready for takeoff.scn
+/Scenarios/Delta-glider/Description.txt
+/Scenarios/Delta-glider/Docked at ISS.scn
+/Scenarios/Delta-glider/Glass cockpit.scn
+/Scenarios/Delta-glider/Habana Spaceport.scn
+/Scenarios/Delta-glider/Smack!.scn
+/Scenarios/Delta-glider/The rotation model.scn
+/Scenarios/Delta-glider/Venus descent.scn
+/Scenarios/Delta-glider/Venus takeoff.scn
+/Scenarios/Delta-glider/Vessel-vessel.scn
+/Scenarios/Delta-glider/Virtual cockpit.scn
+/Scenarios/Demo/Atlantis.scn
+/Scenarios/Demo/DG ISS Approach.scn
+/Scenarios/Demo/Description.txt
+/Scenarios/Demo/Dione.scn
+/Scenarios/Demo/Docked at ISS.scn
+/Scenarios/Demo/Earth.scn
+/Scenarios/Demo/Galilean system view.scn
+/Scenarios/Demo/ISS Approach.scn
+/Scenarios/Demo/Level 9 textures.scn
+/Scenarios/Demo/Mir.scn
+/Scenarios/Demo/Project Alpha.scn
+/Scenarios/Demo/Saturn.scn
+/Scenarios/Demo/The 1999 solar eclipse.scn
+/Scenarios/Demo/Today.scn
+/Scenarios/Demo/Virtual cockpit.scn
+/Scenarios/Dragonfly/Description.txt
+/Scenarios/Dragonfly/Dragonfly.scn
+/Scenarios/Dragonfly/Dragonfly021118.scn
+/Scenarios/Dragonfly/Station building.scn
+/Scenarios/Dragonfly/v1.0.0b PoweredUp.scn
+/Scenarios/Navigation/Description.txt
+/Scenarios/Navigation/Lunar transfer/Lunar transfer 1.scn
+/Scenarios/Navigation/Lunar transfer/Lunar transfer 2.scn
+/Scenarios/Navigation/Space Physics/Atlantis in orbit.scn
+/Scenarios/Navigation/Space Physics/DG dumbbell.scn
+/Scenarios/Navigation/Space Physics/Solar sail.scn
+/Scenarios/Navigation/Space Physics/Spin stabilisation.scn
+/Scenarios/Navigation/Special orbits/Description.txt
+/Scenarios/Navigation/Special orbits/Geostationary orbit.scn
+/Scenarios/Navigation/Special orbits/Lagrange point.scn
+/Scenarios/Navigation/Special orbits/Molniya orbit.scn
+/Scenarios/Navigation/Special orbits/Orbiting Phobos.scn
+/Scenarios/Navigation/Special orbits/Sun-synchronous orbit.scn
+/Scenarios/Navigation/Special orbits/Tundra orbit.scn
+/Scenarios/Navigation/TransX/01 Ready to Launch.scn
+/Scenarios/Navigation/TransX/02 in parking orbit.scn
+/Scenarios/Navigation/TransX/03 maneuver set up .scn
+/Scenarios/Navigation/TransX/04 plan removed.scn
+/Scenarios/Navigation/TransX/05 eject burn complete.scn
+/Scenarios/Navigation/TransX/06 first MCC ready.scn
+/Scenarios/Navigation/TransX/07 second MCC ready.scn
+/Scenarios/Navigation/TransX/08 third MCC ready.scn
+/Scenarios/Navigation/TransX/09 Jupiter sling.scn
+/Scenarios/Navigation/TransX/10 first MCC to Saturn.scn
+/Scenarios/Navigation/TransX/11 Arriving at Saturn.scn
+/Scenarios/Navigation/TransX/Description.txt
+/Scenarios/Playback/Atlantis undocking.scn
+/Scenarios/Playback/Description.txt
+/Scenarios/Playback/Glider in orbit 1.scn
+/Scenarios/Playback/Glider in orbit 2.scn
+/Scenarios/Quicksave/Description.txt
+/Scenarios/Satellites and Probes/Description.txt
+/Scenarios/Satellites and Probes/Hubble Space Telescope/Description.txt
+/Scenarios/Satellites and Probes/Hubble Space Telescope/HST Animation.scn
+/Scenarios/Satellites and Probes/Hubble Space Telescope/HST Launch.scn
+/Scenarios/Satellites and Probes/Hubble Space Telescope/HST Orbit Deployment.scn
+/Scenarios/Satellites and Probes/Hubble Space Telescope/HST Recapture.scn
+/Scenarios/Satellites and Probes/ldef/Description.txt
+/Scenarios/Satellites and Probes/ldef/LDEF deployment.scn
+/Scenarios/Satellites and Probes/ldef/LDEF retrieval.scn
+/Scenarios/Shuttle-A/Description.txt
+/Scenarios/Shuttle-A/ISS Approach.scn
+/Scenarios/Shuttle-A/Olympus spaceport on Mars.scn
+/Scenarios/Shuttle-A/Shuttle-A Docked at ISS.scn
+/Scenarios/Shuttle-A/Shuttle-A Drop.scn
+/Scenarios/Shuttle-A/Shuttle-A Launch.scn
+/Scenarios/Shuttle-A/Shuttle-A Moon.scn
+/Scenarios/Space Shuttle Atlantis/Atlantis ISS Resupply.scn
+/Scenarios/Space Shuttle Atlantis/Atlantis MMU Satellite Repair.scn
+/Scenarios/Space Shuttle Atlantis/Atlantis cockpit.scn
+/Scenarios/Space Shuttle Atlantis/Atlantis docked at ISS.scn
+/Scenarios/Space Shuttle Atlantis/Atlantis final approach.scn
+/Scenarios/Space Shuttle Atlantis/Atlantis landing preparation.scn
+/Scenarios/Space Shuttle Atlantis/Atlantis reentry 1.scn
+/Scenarios/Space Shuttle Atlantis/Atlantis reentry 2.scn
+/Scenarios/Space Shuttle Atlantis/Atlantis satellite Launch.scn
+/Scenarios/Space Shuttle Atlantis/Atlantis satellite.scn
+/Scenarios/Space Shuttle Atlantis/Description.txt
+/Scenarios/Space Shuttle Atlantis/Launch into Sunrise.scn
+/Scenarios/Space Stations/Blue Danube.scn
+/Scenarios/Space Stations/Description.txt
+/Scenarios/Space Stations/ISS.scn
+/Scenarios/Space Stations/Light and darkness.scn
+/Scenarios/Space Stations/Mir.scn
+/Scenarios/The Solar System/Description.txt
+/Scenarios/The Solar System/Dione.scn
+/Scenarios/The Solar System/Earth/Description.txt
+/Scenarios/The Solar System/Earth/Earth views 1.scn
+/Scenarios/The Solar System/Earth/Earth views 2.scn
+/Scenarios/The Solar System/Earth/In low orbit over Africa.scn
+/Scenarios/The Solar System/Earth/The Alps in 3D.scn
+/Scenarios/The Solar System/Earth/The Great Lakes.scn
+/Scenarios/The Solar System/Earth/The Himalayas.scn
+/Scenarios/The Solar System/Eclipses/April 8 2005 Panama.scn
+/Scenarios/The Solar System/Eclipses/April 8 2005.scn
+/Scenarios/The Solar System/Eclipses/Description.txt
+/Scenarios/The Solar System/Eclipses/Lunar eclipse 2004.scn
+/Scenarios/The Solar System/Eclipses/The 1999 solar eclipse.scn
+/Scenarios/The Solar System/Enceladus.scn
+/Scenarios/The Solar System/Ephemerides/Description.txt
+/Scenarios/The Solar System/Ephemerides/Earth-Moon system.scn
+/Scenarios/The Solar System/Ephemerides/Jovian satellites.scn
+/Scenarios/The Solar System/Galilean system view.scn
+/Scenarios/The Solar System/Grand tour.scn
+/Scenarios/The Solar System/Iapetus.scn
+/Scenarios/The Solar System/Jupiter flybys/Description.txt
+/Scenarios/The Solar System/Jupiter flybys/Galileo's first Ganymede flyby.scn
+/Scenarios/The Solar System/Jupiter flybys/Galileo's first Io flyby.scn
+/Scenarios/The Solar System/Jupiter flybys/Galileo's second Ganymede flyby.scn
+/Scenarios/The Solar System/Jupiter flybys/Galileo's second Io flyby.scn
+/Scenarios/The Solar System/Jupiter flybys/Tour of Jupiter.scn
+/Scenarios/The Solar System/Mimas.scn
+/Scenarios/The Solar System/Moon.scn
+/Scenarios/The Solar System/Rhea.scn
+/Scenarios/The Solar System/Saturn.scn
+/Scenarios/The Solar System/Tethys.scn
+/Scenarios/The Solar System/Titan.scn
+/Scenarios/The Solar System/Today.scn
+/Scenarios/The Solar System/Triton.scn
+/Scenarios/The Solar System/Venus.scn
+/Scenarios/Tutorials/ADI training.scn
+/Scenarios/Tutorials/DG stunts.scn
+/Scenarios/Tutorials/DG to the moon.scn
+/Scenarios/Tutorials/DG-ISS Sync Dock.scn
+/Scenarios/Tutorials/Description.txt
+/Scenarios/Tutorials/Smack! Rescue.scn
+/Scenarios/Tutorials/Space Shuttle final approach.scn
+/Scenarios/Tutorials/Space Shuttle to ISS.scn
+/Scenarios/Views/Atmospheric haze.scn
+/Scenarios/Views/Cloud microtexture.scn
+/Scenarios/Views/Description.txt
+/Scenarios/Views/KSC coverage.scn
+/Scenarios/Views/Martian atmosphere colours.scn
+/Scenarios/Views/Moon through atmosphere.scn
+/Script/Atlantis/launch.lua
+/Script/Challenges/Challenge1.dat
+/Script/Challenges/Challenge1.lua
+/Script/Challenges/Challenge2.lua
+/Script/Challenges/Challenge3.lua
+/Script/Challenges/Challenge4.dat
+/Script/Challenges/Challenge4.lua
+/Script/DG/aap.lua
+/Script/Demo/demos.lua
+/Script/Demos/AtmAutopilot.lua
+/Script/Demos/Spin_stabilisation.lua
+/Script/Demos/atlantis_launch.lua
+/Script/ShuttleA/adi.lua
+/Script/attctrl.lua
+/Script/earthview2016.lua
+/Script/ksc_sweep.lua
+/Script/oapi_init.lua
+/Script/solsys2016.lua
+/Script/welcome2016.lua
+/Star.bin
+/Textures/036MB.dds
+/Textures/036MC1.dds
+/Textures/036MC3.dds
+/Textures/036Metal.dds
+/Textures/036mirm.dds
+/Textures/036mod1.dds
+/Textures/036panel.dds
+/Textures/036point.dds
+/Textures/Ariel.tex
+/Textures/Atlantis/A8bottom.dds
+/Textures/Atlantis/A8top.dds
+/Textures/Atlantis/GPC.dds
+/Textures/Atlantis/MGAtlantis.dds
+/Textures/Atlantis/R1L1.dds
+/Textures/Atlantis/R2.dds
+/Textures/Atlantis/STSVC01.dds
+/Textures/Atlantis/STSVC02.dds
+/Textures/Atlantis/STSVC03.dds
+/Textures/Atlantis/STSinstruments.dds
+/Textures/Atlantis/c2.dds
+/Textures/Atlantis/c3.dds
+/Textures/Atlantis/cargobay.dds
+/Textures/Atlantis/clocknums.dds
+/Textures/Atlantis/label.dds
+/Textures/Atlantis/r13l.dds
+/Textures/Atlantis/talkback.dds
+/Textures/Ball.dds
+/Textures/Ball2.dds
+/Textures/Ball3.dds
+/Textures/BlndcircA.dds
+/Textures/BlndcircB.dds
+/Textures/BlndcircC.dds
+/Textures/Callisto/Archive/Surf.tree
+/Textures/CallistoM.bmp
+/Textures/Cape17.dds
+/Textures/Cape18.dds
+/Textures/Cape19.dds
+/Textures/Cape20.dds
+/Textures/Cape22.dds
+/Textures/Cape23.dds
+/Textures/Cape23_n.dds
+/Textures/Capsule2.dds
+/Textures/Cockpit/Glasspit.dds
+/Textures/Cockpit/Glasspit_blue.dds
+/Textures/Cockpit/Glasspit_red.dds
+/Textures/Cockpit/Glasspit_yellow.dds
+/Textures/Cockpit/hud.dds
+/Textures/Cockpit/hud_blue.dds
+/Textures/Cockpit/hud_red.dds
+/Textures/Cockpit/hud_yellow.dds
+/Textures/Common/adiball_blue.dds
+/Textures/Common/adiball_grey.dds
+/Textures/Concrete.dds
+/Textures/Contrail1.dds
+/Textures/Contrail1a.dds
+/Textures/Contrail2.dds
+/Textures/Contrail3.dds
+/Textures/Contrail4.dds
+/Textures/DG/DG_VC1.dds
+/Textures/DG/DG_VC2.dds
+/Textures/DG/DG_VC3.dds
+/Textures/DG/Skins/Blue/dgmk4_1.dds
+/Textures/DG/Skins/Blue/dgmk4_2.dds
+/Textures/DG/Skins/Blue/dgmk4_2_ns.dds
+/Textures/DG/Skins/Blue/idpanel1.dds
+/Textures/DG/blitsrc1.dds
+/Textures/DG/blittgt1.dds
+/Textures/DG/dg_instr.dds
+/Textures/DG/dg_panel.dds
+/Textures/DG/dg_vc4.dds
+/Textures/DG/dg_vc5.dds
+/Textures/DG/dgip_01.dds
+/Textures/DG/dgip_02.dds
+/Textures/DG/dgip_03.dds
+/Textures/DG/dgip_04.dds
+/Textures/DG/dgip_05.dds
+/Textures/DG/dgip_06.dds
+/Textures/DG/dgmk4_1.dds
+/Textures/DG/dgmk4_2.dds
+/Textures/DG/dgmk4_2_ns.dds
+/Textures/DG/dgmk4_3.dds
+/Textures/DG/dgmk4_4.dds
+/Textures/DG/dgpilot1.dds
+/Textures/DG/idpanel1.dds
+/Textures/DG/psngr1.dds
+/Textures/DG/psngr2.dds
+/Textures/DG/psngr3.dds
+/Textures/DG/psngr4.dds
+/Textures/Deimos.dds
+/Textures/Deimos/Archive/Elev.tree
+/Textures/Deimos/Archive/Surf.tree
+/Textures/DeimosM.bmp
+/Textures/Dione/Archive/Surf.tree
+/Textures/Dragonfly/dfly1x.dds
+/Textures/Dragonfly/dfly3x.dds
+/Textures/Dragonfly/dfly4x.dds
+/Textures/Dragonfly/dfly5x.dds
+/Textures/Dragonfly/dfly6x.dds
+/Textures/Dragonfly/dfly7x.dds
+/Textures/Earth/Archive/Cloud.tree
+/Textures/Earth/Archive/Elev.tree
+/Textures/Earth/Archive/Elev_mod.tree
+/Textures/Earth/Archive/Mask.tree
+/Textures/Earth/Archive/Surf.tree
+/Textures/EarthM.bmp
+/Textures/Enceladus/Archive/Surf.tree
+/Textures/Europa/Archive/Surf.tree
+/Textures/EuropaM.bmp
+/Textures/Exhaust.dds
+/Textures/Exhaust2.dds
+/Textures/Exhaust_atsme.dds
+/Textures/Exhaust_atsrb.dds
+/Textures/FCD04_n.dds
+/Textures/Fcd02_n.dds
+/Textures/Fcd03_n.dds
+/Textures/Fcd05_n.dds
+/Textures/Fcd06_n.dds
+/Textures/Fcd11.dds
+/Textures/Fcd11_n.dds
+/Textures/Fcd12.dds
+/Textures/Fcd12_n.dds
+/Textures/Fcd13.dds
+/Textures/Fcd13_n.dds
+/Textures/Fcd14.dds
+/Textures/Fcd15.dds
+/Textures/Ganymede/Archive/Surf.tree
+/Textures/GanymedeM.bmp
+/Textures/HST_NASA.dds
+/Textures/HST_New_Solar_array.dds
+/Textures/Hangrail.dds
+/Textures/Hangrail_n.dds
+/Textures/Hatch.dds
+/Textures/Horizon.dds
+/Textures/Hyperion.tex
+/Textures/Iapetus/Archive/Surf.tree
+/Textures/IapetusM.bmp
+/Textures/Io/Archive/Elev.tree
+/Textures/Io/Archive/Surf.tree
+/Textures/IoM.bmp
+/Textures/Jupiter/Archive/Cloud.tree
+/Textures/Jupiter/Archive/Surf.tree
+/Textures/JupiterM.BMP
+/Textures/KSC/KLC39B.dds
+/Textures/KSC/MLP.dds
+/Textures/KSC/RSS39B.dds
+/Textures/LDEF.dds
+/Textures/LDEFend.dds
+/Textures/Lpad01.dds
+/Textures/Lpad01_n.dds
+/Textures/Lpad02.dds
+/Textures/Lpad02_n.dds
+/Textures/Lpad02a.dds
+/Textures/Lpad02a_n.dds
+/Textures/Mars/Archive/Elev.tree
+/Textures/Mars/Archive/Surf.tree
+/Textures/MarsM.bmp
+/Textures/Mc.dds
+/Textures/Mc2.dds
+/Textures/Mercury.tex
+/Textures/Mimas/Archive/Surf.tree
+/Textures/Miranda.tex
+/Textures/Mirblanket.dds
+/Textures/Mirm1.dds
+/Textures/Monorail.dds
+/Textures/Monorail_n.dds
+/Textures/Moon/Archive/Elev.tree
+/Textures/Moon/Archive/Surf.tree
+/Textures/MoonM.bmp
+/Textures/Neptune.tex
+/Textures/NeptuneM.bmp
+/Textures/Nereid.tex
+/Textures/ODS_512.dds
+/Textures/Oberon.tex
+/Textures/Phobos.dds
+/Textures/Phobos/Archive/Elev.tree
+/Textures/Phobos/Archive/Surf.tree
+/Textures/PhobosM.bmp
+/Textures/Proteus.tex
+/Textures/Radiator2.dds
+/Textures/Reentry.dds
+/Textures/Rhea/Archive/Surf.tree
+/Textures/Roof01.dds
+/Textures/Roof02.dds
+/Textures/Runway1.dds
+/Textures/Runway2.dds
+/Textures/Saturn.tex
+/Textures/SaturnM.bmp
+/Textures/Saturn_ring.tex
+/Textures/Shutex2_512.dds
+/Textures/ShuttleA/CargoCnt.dds
+/Textures/ShuttleA/FuelMgmt.dds
+/Textures/ShuttleA/Indicator.dds
+/Textures/ShuttleA/MFD_buttons.dds
+/Textures/ShuttleA/NavMode.dds
+/Textures/ShuttleA/PodAngle.dds
+/Textures/ShuttleA/Sh_para.dds
+/Textures/ShuttleA/Thrust.dds
+/Textures/ShuttleA/panel1.dds
+/Textures/ShuttleA/panel2.dds
+/Textures/ShuttleA/panel2d.dds
+/Textures/ShuttleA/panel_el.dds
+/Textures/ShuttlePB.dds
+/Textures/ShuttlePBwing.dds
+/Textures/Solar3.dds
+/Textures/Solar3s.dds
+/Textures/Star.dds
+/Textures/Station2.dds
+/Textures/Tank.dds
+/Textures/Taxiway1.dds
+/Textures/Taxiway1_n.dds
+/Textures/Taxiway2.dds
+/Textures/Taxiway2_n.dds
+/Textures/Tethys/Archive/Surf.tree
+/Textures/Titan.tex
+/Textures/TitanM.bmp
+/Textures/Titan_cloud.tex
+/Textures/Titania.tex
+/Textures/Triton.tex
+/Textures/TritonM.bmp
+/Textures/Triton_cloud.tex
+/Textures/Umbriel.tex
+/Textures/Uranus.tex
+/Textures/UranusM.bmp
+/Textures/Uranus_ring.tex
+/Textures/Venus.tex
+/Textures/Venus_cloud.tex
+/Textures/Vesta/Archive/Elev.tree
+/Textures/Vesta/Archive/Surf.tree
+/Textures/Wall01.dds
+/Textures/adi.dds
+/Textures/bulk2.dds
+/Textures/car-hull.dds
+/Textures/cloud1.dds
+/Textures/concrete1.dds
+/Textures/csphere/dds2.tex
+/Textures/csphere/fermi.tex
+/Textures/csphere/h_alpha.tex
+/Textures/csphere/iras.tex
+/Textures/csphere/planck.tex
+/Textures/csphere/radio.tex
+/Textures/csphere/rass.tex
+/Textures/d_ring.dds
+/Textures/door01.dds
+/Textures/exhaust_atrcs.dds
+/Textures/fcd01.dds
+/Textures/fcd01_n.dds
+/Textures/fcd02.dds
+/Textures/fcd03.dds
+/Textures/fcd04.dds
+/Textures/fcd05.dds
+/Textures/fcd06.dds
+/Textures/fcd07.dds
+/Textures/fcd08.dds
+/Textures/fcd09.dds
+/Textures/fcd10.dds
+/Textures/font1tex.dds
+/Textures/generic/concrete1.dds
+/Textures/generic/concrete2.dds
+/Textures/generic/concrete2a.dds
+/Textures/generic/concrete3.dds
+/Textures/generic/metal_plates1.dds
+/Textures/generic/noise1.dds
+/Textures/generic/noisep.dds
+/Textures/generic/railings1.dds
+/Textures/generic/stripes.dds
+/Textures/generic/tiles1.dds
+/Textures/goldfoil.dds
+/Textures/graple.dds
+/Textures/issItalian.dds
+/Textures/iss_dc.dds
+/Textures/iss_dcs.dds
+/Textures/iss_un.dds
+/Textures/issb.dds
+/Textures/issb2.dds
+/Textures/issb3.dds
+/Textures/issb4.dds
+/Textures/issbs.dds
+/Textures/issbso.dds
+/Textures/issbso2.dds
+/Textures/isscov2.dds
+/Textures/isscover.dds
+/Textures/isscup.dds
+/Textures/issdish.dds
+/Textures/issdot.dds
+/Textures/issesa.dds
+/Textures/isshand.dds
+/Textures/issins.dds
+/Textures/issku.dds
+/Textures/issku1.dds
+/Textures/issku2.dds
+/Textures/issleo.dds
+/Textures/issmb.dds
+/Textures/issmod.dds
+/Textures/issp2.dds
+/Textures/isspanel.dds
+/Textures/issrad.dds
+/Textures/issred.dds
+/Textures/isssolar.dds
+/Textures/issusa.dds
+/Textures/issusaf.dds
+/Textures/isszmod.dds
+/Textures/lcc_drs.dds
+/Textures/lcc_wnds.dds
+/Textures/lights1.dds
+/Textures/main_menu.dds
+/Textures/main_menu_tgt.dds
+/Textures/metalcon.dds
+/Textures/mmu.dds
+/Textures/mmu2.dds
+/Textures/mmu3.dds
+/Textures/mmu4.dds
+/Textures/mmu6.dds
+/Textures/mmu_nasa.dds
+/Textures/mmu_red.dds
+/Textures/nasda.dds
+/Textures/panels.dds
+/Textures/questcov.dds
+/Textures/rough1.dds
+/Textures/rwlight.dds
+/Textures/sha1cp1.dds
+/Textures/sha1ft1.dds
+/Textures/sha1tx1.dds
+/Textures/sha1tx2.dds
+/Textures/sha1tx3.dds
+/Textures/sha1tx4.dds
+/Textures/sha1tx5.dds
+/Textures/solpanel.dds
+/Textures/srb.dds
+/Textures/srbl.dds
+/Textures/srbu.dds
+/Textures/ssmec.dds
+/Textures/tile1.dds
+/Textures/transp.dds
+/Textures/tred.dds
+/Textures/vab_bk01.dds
+/Textures/vab_fr01.dds
+/Textures/vab_fr02.dds
+/Textures/vab_tl1.dds
+/Textures/vab_tl2.dds
+/Textures/visor.dds
+/Textures/waves.dds
+/Textures2/Atlantis/MGAtlantis.dds
+/Textures2/Atlantis/R1L1.dds
+/Textures2/Atlantis/R2.dds
+/Textures2/Atlantis/STSVC01.dds
+/Textures2/Atlantis/STSVC02.dds
+/Textures2/Atlantis/STSVC03.dds
+/Textures2/Atlantis/c2.dds
+/Textures2/Atlantis/c3.dds
+/Textures2/DG/Skins/Blue/dgmk4_1.dds
+/Textures2/DG/Skins/Blue/dgmk4_2.dds
+/Textures2/DG/Skins/Blue/dgmk4_2_ns.dds
+/Textures2/DG/dgmk4_1.dds
+/Textures2/DG/dgmk4_2.dds
+/Textures2/DG/dgmk4_2_ns.dds
+/Textures2/Dragonfly/dfly1x.dds
+/Textures2/Dragonfly/dfly4x.dds
+/Textures2/Dragonfly/dfly7x.dds
+/Utils/CABARC.EXE
+/Utils/CABINET.DLL
+/Utils/Date.exe
+/Utils/DxTex.exe
+/Utils/EXTRACT.EXE
+/Utils/plsplit64.exe
+/Utils/pltex.exe
+/Utils/texpack.exe
+/Utils/tileedit.exe
+/Utils/tileedit_README.txt
+/keymap2006.cfg
+/lua5.1.dll
+/msvcp71.dll
+/msvcr71.dll
+/orbiter.exe
+/readme.txt
+/Config/Vessels/ShuttlePBSDKDemo.cfg
+/Doc/OrbiterSound Documentation/OrbiterSound Documentation.html
+/Orbiter.cfg
+/Orbiter_NG.cfg
+/Scenarios/_OrbiterSound 5.0 demo/01- Welcome and learn the new MFD.scn
+/Scenarios/_OrbiterSound 5.0 demo/02- Atlantis launch with custom sound.scn
+/Scenarios/_OrbiterSound 5.0 demo/03- Squadron Take-Off.scn
+/Scenarios/_OrbiterSound 5.0 demo/04- Sound's 3D projection cone.scn
+/Scenarios/_OrbiterSound 5.0 demo/05- Silence cone above Mach one.scn
+/Scenarios/_OrbiterSound 5.0 demo/06- Reentry sound.scn
+/Scenarios/_OrbiterSound 5.0 demo/07- Planet Bases and Wind sounds.scn
+/Scenarios/_OrbiterSound 5.0 demo/08- Scenario Commands Review.scn
+/Scenarios/_OrbiterSound 5.0 demo/09- OrbiterSound update check.scn
+/Scenarios/_OrbiterSound 5.0 demo/10--- FAQ Why no sound on Mars anymore.scn
+/Scenarios/_OrbiterSound 5.0 demo/11--- Config file to add sound without coding.scn
+/Scenarios/_OrbiterSound 5.0 demo/12--- SDK C++ and config demo.scn
+/Scenarios/_OrbiterSound 5.0 demo/Description.txt
+/Sound/Mp3/Classical - Public Domain Classical.webr
+/Sound/Mp3/Epic Stories.mp3
+/Sound/Mp3/Franz Schubert D957.mp3
+/Sound/Mp3/More Web Radio listed by genre/1950 Rock - ABC 50s (Canada).webr
+/Sound/Mp3/More Web Radio listed by genre/1960 Rock - ABC 60s (Canada).webr
+/Sound/Mp3/More Web Radio listed by genre/1970 Hits - 113.fm Retro.webr
+/Sound/Mp3/More Web Radio listed by genre/1980 Rock - ABC 80s (Canada).webr
+/Sound/Mp3/More Web Radio listed by genre/Chillout Ibiza - Costa Del Mar.webr
+/Sound/Mp3/More Web Radio listed by genre/Classic Rock - SHE Florida Radio Station.webr
+/Sound/Mp3/More Web Radio listed by genre/Classic Rock Oldies - West Coast.webr
+/Sound/Mp3/More Web Radio listed by genre/Classical - Abacus Mozart.webr
+/Sound/Mp3/More Web Radio listed by genre/Classical - HearMe Classical Handel.webr
+/Sound/Mp3/More Web Radio listed by genre/Classical - HearMe Classical Violin.webr
+/Sound/Mp3/More Web Radio listed by genre/Classical - Public Domain Classical.webr
+/Sound/Mp3/More Web Radio listed by genre/Dance House - Intense Radio.webr
+/Sound/Mp3/More Web Radio listed by genre/Disco Funk - ABC Disco Funk.webr
+/Sound/Mp3/More Web Radio listed by genre/Folk - American Roots.webr
+/Sound/Mp3/More Web Radio listed by genre/French songs - 100PourCentFrance.webr
+/Sound/Mp3/More Web Radio listed by genre/German 1980 hits - wunshradio.fm.webr
+/Sound/Mp3/More Web Radio listed by genre/German Pop - wunshradio.fm.webr
+/Sound/Mp3/More Web Radio listed by genre/Hard Rock Metal - 80s Rock Radio.webr
+/Sound/Mp3/More Web Radio listed by genre/Jazz Blues Classic - Arctic Outpost AM1270.webr
+/Sound/Mp3/More Web Radio listed by genre/Jazz Lounge - Abacus Jazz.webr
+/Sound/Mp3/More Web Radio listed by genre/Jazz Smooth - Jazz Cafe Audiophile.webr
+/Sound/Mp3/More Web Radio listed by genre/Lovesongs Pop - Radio Arabella.webr
+/Sound/Mp3/More Web Radio listed by genre/NASA Third Rock radio.webr
+/Sound/Mp3/More Web Radio listed by genre/Pop Easy Hit - Radio Miami.webr
+/Sound/Mp3/More Web Radio listed by genre/Progressive Rock - Morow.webr
+/Sound/Mp3/More Web Radio listed by genre/Reggae Soca - Qmz Radio.webr
+/Sound/Mp3/More Web Radio listed by genre/Rock Alternative - La grosse radio.webr
+/Sound/Mp3/More Web Radio listed by genre/Rock Prog - Fr Rock Prog Univers.webr
+/Sound/Mp3/More Web Radio listed by genre/Trance Dance - TrancePulse Dublin.webr
+/Sound/Mp3/More Web Radio listed by genre/Urban RnB Rap - Urban Session HD.webr
+/Sound/Mp3/More Web Radio listed by genre/_Copy to MP3 folder to try.rtf
+/Sound/Mp3/More Web Radio listed by genre/x Bach-Gstring (Nostalgia OrbiterSound 3.5 music).mp3
+/Sound/Mp3/More Web Radio listed by genre/x Calm-Spaces (Nostalgia OrbiterSound 4.0 music).mp3
+/Sound/Mp3/NASA Third Rock radio.webr
+/Sound/Mp3/OrbiterSound_Playlist.m3u
+/Sound/Mp3/Pop Easy Hit - Radio Miami.webr
+/Sound/Mp3/Trance Dance - TrancePulse Dublin.webr
+/Sound/Mp3/_How to add more Mp3 and Web radio.rtf
+/Sound/Mp3/_How to control Mp3 and Web Radio in Orbiter.rtf
+/Sound/OrbiterSound_SDK/MFDSOUND_SDK/MFDSoundExample.dll
+/Sound/OrbiterSound_SDK/MFDSOUND_SDK/MFDSound_Example/MFDTemplate.cpp
+/Sound/OrbiterSound_SDK/MFDSOUND_SDK/MFDSound_Example/MFDTemplate.h
+/Sound/OrbiterSound_SDK/MFDSOUND_SDK/MFDSound_Example/MFDTemplate.sln
+/Sound/OrbiterSound_SDK/MFDSOUND_SDK/MFDSound_Example/MFDTemplate.vcxproj
+/Sound/OrbiterSound_SDK/MFDSOUND_SDK/MFDSound_Example/MfdSoundSDK50.h
+/Sound/OrbiterSound_SDK/MFDSOUND_SDK/MFDSound_Example/MfdSound_AdvancedExample.cpp
+/Sound/OrbiterSound_SDK/MFDSOUND_SDK/MFDSound_Example/MfdSound_SimpleExample.cpp
+/Sound/OrbiterSound_SDK/MFDSOUND_SDK/MFDSound_Example/OrbiterSoundSDK50.lib
+/Sound/OrbiterSound_SDK/MFDSOUND_SDK/MFDSound_Example/OrbiterSoundSDK50d.lib
+/Sound/OrbiterSound_SDK/MFDSOUND_SDK/MFD_SOUND_README.txt
+/Sound/OrbiterSound_SDK/READ ME FIRST.txt
+/Sound/OrbiterSound_SDK/VESSELSOUND_SDK/Read me first.txt
+/Sound/OrbiterSound_SDK/VESSELSOUND_SDK/ShuttlePB_project/OrbiterSoundSDK50.h
+/Sound/OrbiterSound_SDK/VESSELSOUND_SDK/ShuttlePB_project/OrbiterSoundSDK50.lib
+/Sound/OrbiterSound_SDK/VESSELSOUND_SDK/ShuttlePB_project/OrbiterSoundSDK50d.lib
+/Sound/OrbiterSound_SDK/VESSELSOUND_SDK/ShuttlePB_project/ShuttlePB.cpp
+/Sound/OrbiterSound_SDK/VESSELSOUND_SDK/ShuttlePB_project/ShuttlePB.sln
+/Sound/OrbiterSound_SDK/VESSELSOUND_SDK/ShuttlePB_project/ShuttlePB.vcxproj
+/Sound/OrbiterSound_SDK/VESSELSOUND_SDK/ShuttlePB_project/ShuttlePB.vcxproj.filters
+/Sound/OrbiterSound_SDK/VESSELSOUND_SDK/Upgrading from older version to 5.0 SDK.txt
+/Sound/Radio/119.200 STS-133/Credit & copyright.txt
+/Sound/Radio/119.200 STS-133/STS01.wav
+/Sound/Radio/119.200 STS-133/STS02.wav
+/Sound/Radio/119.200 STS-133/STS03.wav
+/Sound/Radio/119.200 STS-133/STS04.wav
+/Sound/Radio/119.200 STS-133/STS05.wav
+/Sound/Radio/119.200 STS-133/STS06.wav
+/Sound/Radio/119.200 STS-133/STS07.wav
+/Sound/Radio/119.200 STS-133/STS08.wav
+/Sound/Radio/119.200 STS-133/STS09.wav
+/Sound/Radio/119.200 STS-133/STS10.wav
+/Sound/Radio/119.200 STS-133/STS11.wav
+/Sound/Radio/119.200 STS-133/STS12.wav
+/Sound/Radio/119.200 STS-133/STS13.wav
+/Sound/Radio/119.200 STS-133/STS14.wav
+/Sound/Radio/119.200 STS-133/STS15.wav
+/Sound/Radio/119.200 STS-133/STS16.wav
+/Sound/Radio/120.100 STS-135/Credit & copyright.txt
+/Sound/Radio/120.100 STS-135/STS.wav
+/Sound/Radio/120.100 STS-135/STS11.wav
+/Sound/Radio/120.100 STS-135/STS12.wav
+/Sound/Radio/120.100 STS-135/STS13.wav
+/Sound/Radio/120.100 STS-135/STS14.wav
+/Sound/Radio/120.100 STS-135/STS15.wav
+/Sound/Radio/120.100 STS-135/STS16.wav
+/Sound/Radio/120.100 STS-135/STS2.wav
+/Sound/Radio/120.100 STS-135/STS3.wav
+/Sound/Radio/120.100 STS-135/STS4.wav
+/Sound/Radio/120.100 STS-135/STS5.wav
+/Sound/Radio/120.100 STS-135/STS6.wav
+/Sound/Radio/120.100 STS-135/STS7.wav
+/Sound/Radio/120.100 STS-135/STS8.wav
+/Sound/Radio/120.100 STS-135/STS9.wav
+/Sound/Radio/120.100 STS-135/sts135.wav
+/Sound/Radio/120.100 STS-135/sts135_nils.wav
+/Sound/Radio/140.300 STS-134/Credit & copyright.txt
+/Sound/Radio/140.300 STS-134/sts134_1.wav
+/Sound/Radio/140.300 STS-134/sts134_10.wav
+/Sound/Radio/140.300 STS-134/sts134_11.wav
+/Sound/Radio/140.300 STS-134/sts134_12.wav
+/Sound/Radio/140.300 STS-134/sts134_13.wav
+/Sound/Radio/140.300 STS-134/sts134_14.wav
+/Sound/Radio/140.300 STS-134/sts134_2.wav
+/Sound/Radio/140.300 STS-134/sts134_3.wav
+/Sound/Radio/140.300 STS-134/sts134_4.wav
+/Sound/Radio/140.300 STS-134/sts134_5.wav
+/Sound/Radio/140.300 STS-134/sts134_6.wav
+/Sound/Radio/140.300 STS-134/sts134_7.wav
+/Sound/Radio/140.300 STS-134/sts134_8.wav
+/Sound/Radio/140.300 STS-134/sts134_9.wav
+/Sound/Radio/141.200 Soyuz TMA12/Credit & copyright.txt
+/Sound/Radio/141.200 Soyuz TMA12/SOY01.wav
+/Sound/Radio/141.200 Soyuz TMA12/SOY02.wav
+/Sound/Radio/141.200 Soyuz TMA12/SOY03.wav
+/Sound/Radio/141.200 Soyuz TMA12/SOY04.wav
+/Sound/Radio/141.200 Soyuz TMA12/SOY05.wav
+/Sound/Radio/141.200 Soyuz TMA12/SOY06.wav
+/Sound/Radio/141.200 Soyuz TMA12/SOY07.wav
+/Sound/Radio/141.200 Soyuz TMA12/SOY08.wav
+/Sound/Radio/141.200 Soyuz TMA12/SOY09.wav
+/Sound/Radio/141.200 Soyuz TMA12/SOY10.wav
+/Sound/Radio/141.200 Soyuz TMA12/SOY11.wav
+/Sound/Radio/141.200 Soyuz TMA12/SOY12.wav
+/Sound/Radio/141.200 Soyuz TMA12/SOY13.wav
+/Sound/Radio/141.200 Soyuz TMA12/SOY14.wav
+/Sound/Radio/141.200 Soyuz TMA12/SOY15.wav
+/Sound/Radio/141.200 Soyuz TMA12/SOY16.wav
+/Sound/Radio/141.200 Soyuz TMA12/SOY17.wav
+/Sound/Radio/143.625 baikonour/ru27.wav
+/Sound/Radio/143.625 baikonour/ru35.wav
+/Sound/Radio/143.625 baikonour/ru39.wav
+/Sound/Radio/143.625 baikonour/ru41.wav
+/Sound/Radio/143.625 baikonour/ru8.wav
+/Sound/Radio/296.800 apollo/app11_10.wav
+/Sound/Radio/296.800 apollo/app11_11.wav
+/Sound/Radio/296.800 apollo/app11_12.wav
+/Sound/Radio/296.800 apollo/app11_13.wav
+/Sound/Radio/296.800 apollo/app11_14.wav
+/Sound/Radio/296.800 apollo/app11_15.wav
+/Sound/Radio/296.800 apollo/app11_16.wav
+/Sound/Radio/296.800 apollo/app11_17.wav
+/Sound/Radio/296.800 apollo/app11_18.wav
+/Sound/Radio/296.800 apollo/app11_19.wav
+/Sound/Radio/296.800 apollo/app11_20.wav
+/Sound/Radio/296.800 apollo/app11_21.wav
+/Sound/Radio/296.800 apollo/app11_22.wav
+/Sound/Radio/296.800 apollo/app11_23.wav
+/Sound/Radio/296.800 apollo/app11_24.wav
+/Sound/Radio/296.800 apollo/app11_25.wav
+/Sound/Radio/296.800 apollo/app11_26.wav
+/Sound/Radio/296.800 apollo/app11_27.wav
+/Sound/Radio/296.800 apollo/app11_28.wav
+/Sound/Radio/296.800 apollo/app11_29.wav
+/Sound/Radio/296.800 apollo/app11_30.wav
+/Sound/Radio/296.800 apollo/app11_31.wav
+/Sound/Radio/296.800 apollo/app11_32.wav
+/Sound/Radio/296.800 apollo/app11_33.wav
+/Sound/Radio/296.800 apollo/app11_34.wav
+/Sound/Radio/296.800 apollo/app11_35.wav
+/Sound/Radio/296.800 apollo/app11_36.wav
+/Sound/Radio/296.800 apollo/app11_37.wav
+/Sound/Radio/296.800 apollo/app11_38.wav
+/Sound/Radio/More_Atc_help.txt
+/Sound/Sequential_Editor.exe
+/Sound/Vessel/-10.WAV
+/Sound/Vessel/-100.WAV
+/Sound/Vessel/-1000.WAV
+/Sound/Vessel/-20.WAV
+/Sound/Vessel/-200.WAV
+/Sound/Vessel/-2500.WAV
+/Sound/Vessel/-30.WAV
+/Sound/Vessel/-300.WAV
+/Sound/Vessel/-40.WAV
+/Sound/Vessel/-400.WAV
+/Sound/Vessel/-50.WAV
+/Sound/Vessel/-500.WAV
+/Sound/Vessel/AuxThr.wav
+/Sound/Vessel/Hover_int.wav
+/Sound/Vessel/Hover_int_legacy.wav
+/Sound/Vessel/Land.wav
+/Sound/Vessel/LandScreech.wav
+/Sound/Vessel/RcsattmodeOff.wav
+/Sound/Vessel/RcsattmodeRot.wav
+/Sound/Vessel/RcsattmodeTrans.wav
+/Sound/Vessel/Roll.wav
+/Sound/Vessel/Rollpad.wav
+/Sound/Vessel/aircond.wav
+/Sound/Vessel/airspeed.wav
+/Sound/Vessel/ambient0.wav
+/Sound/Vessel/ambient1.wav
+/Sound/Vessel/ambient2.wav
+/Sound/Vessel/ambient3.wav
+/Sound/Vessel/ambient4.wav
+/Sound/Vessel/ambient5.wav
+/Sound/Vessel/ambient6.wav
+/Sound/Vessel/ambient7.wav
+/Sound/Vessel/ambient8.wav
+/Sound/Vessel/ambient9.wav
+/Sound/Vessel/attfire.wav
+/Sound/Vessel/attfire40stereo.wav
+/Sound/Vessel/attmode0.wav
+/Sound/Vessel/attmode1.wav
+/Sound/Vessel/attsustain.wav
+/Sound/Vessel/attsustain40stereo1.wav
+/Sound/Vessel/attsustain40stereo2.wav
+/Sound/Vessel/bipbipmfderror.wav
+/Sound/Vessel/brake.wav
+/Sound/Vessel/countdown.wav
+/Sound/Vessel/countdown1.WAV
+/Sound/Vessel/crash.WAV
+/Sound/Vessel/docking.wav
+/Sound/Vessel/dockingClr.WAV
+/Sound/Vessel/docking_radio.wav
+/Sound/Vessel/docking_radio_01.wav
+/Sound/Vessel/docking_radio_02.wav
+/Sound/Vessel/docking_radio_03.wav
+/Sound/Vessel/docking_radio_04.wav
+/Sound/Vessel/docking_radio_05.wav
+/Sound/Vessel/docking_radio_06.wav
+/Sound/Vessel/docking_radio_07.wav
+/Sound/Vessel/docking_radio_08.wav
+/Sound/Vessel/docking_radio_09.wav
+/Sound/Vessel/docking_radio_10.wav
+/Sound/Vessel/docking_small_001.wav
+/Sound/Vessel/landClr.WAV
+/Sound/Vessel/mainext.wav
+/Sound/Vessel/mainextclose.wav
+/Sound/Vessel/mainextloud.wav
+/Sound/Vessel/noise.wav
+/Sound/Vessel/radar_bip.wav
+/Sound/Vessel/radar_close.wav
+/Sound/Vessel/radiotune.wav
+/Sound/Vessel/radvoice_1.wav
+/Sound/Vessel/radvoice_10.wav
+/Sound/Vessel/radvoice_100.wav
+/Sound/Vessel/radvoice_2.wav
+/Sound/Vessel/radvoice_20.wav
+/Sound/Vessel/radvoice_200.wav
+/Sound/Vessel/radvoice_3.wav
+/Sound/Vessel/radvoice_30.wav
+/Sound/Vessel/radvoice_4.wav
+/Sound/Vessel/radvoice_40.wav
+/Sound/Vessel/radvoice_5.wav
+/Sound/Vessel/radvoice_50.wav
+/Sound/Vessel/reentryfar.wav
+/Sound/Vessel/retro.wav
+/Sound/Vessel/sonicbang.wav
+/Sound/Vessel/sonicbangfar.wav
+/Sound/Vessel/sonicbangfar1.wav
+/Sound/Vessel/undocking.wav
+/Sound/Vessel/undocking_radio.wav
+/Sound/Vessel/undocking_radio_01.wav
+/Sound/Vessel/undocking_radio_02.wav
+/Sound/Vessel/undocking_radio_03.wav
+/Sound/Vessel/undocking_radio_04.wav
+/Sound/Vessel/wind.wav
+/Sound/_CustomBaseSounds/Earth_Cape Canaveral_12000_255_40.wav
+/Sound/_CustomBaseSounds/Earth_Gran Canaria_12000_500_30.wav
+/Sound/_CustomBaseSounds/Earth_Habana_10000_255_15.wav
+/Sound/_CustomBaseSounds/Earth_Kourou_12000_255_15.wav
+/Sound/_CustomBaseSounds/_ADD BASE SOUND DOCUMENTATION.txt
+/Sound/_CustomScenarioSounds/OrbiterSoundDemo/Action_Strike.mp3
+/Sound/_CustomScenarioSounds/OrbiterSoundDemo/AtlantisFullLaunchExternal.ogg
+/Sound/_CustomScenarioSounds/OrbiterSoundDemo/AtlantisFullLaunchInternal.ogg
+/Sound/_CustomScenarioSounds/OrbiterSoundDemo/Brothers_Unite.mp3
+/Sound/_CustomScenarioSounds/OrbiterSoundDemo/ScenarioDemoSquadronFlyBy_mixdown.mp3
+/Sound/_CustomScenarioSounds/OrbiterSoundDemo/ScenarioDemoSquadron_mixdown.mp3
+/Sound/_CustomScenarioSounds/OrbiterSoundDemo/playsoundOneCockpit.ogg
+/Sound/_CustomScenarioSounds/OrbiterSoundDemo/playsoundTwoExternal.ogg
+/Sound/_CustomVesselsSounds/Atlantis.cfg
+/Sound/_CustomVesselsSounds/Atlantis/ClickSwitch.wav
+/Sound/_CustomVesselsSounds/Atlantis/aircond.wav
+/Sound/_CustomVesselsSounds/Atlantis/cBayClosed.wav
+/Sound/_CustomVesselsSounds/Atlantis/cBayDoorMove.wav
+/Sound/_CustomVesselsSounds/Atlantis/cBayOpen.wav
+/Sound/_CustomVesselsSounds/Atlantis/cBrakeClosed.wav
+/Sound/_CustomVesselsSounds/Atlantis/cBrakeOpen.wav
+/Sound/_CustomVesselsSounds/Atlantis/cGearDown.wav
+/Sound/_CustomVesselsSounds/Atlantis/cGearMove.wav
+/Sound/_CustomVesselsSounds/Atlantis/cGearUp.wav
+/Sound/_CustomVesselsSounds/Atlantis/cKuClosed.wav
+/Sound/_CustomVesselsSounds/Atlantis/cKuOpen.wav
+/Sound/_CustomVesselsSounds/Atlantis/cRadClosed.wav
+/Sound/_CustomVesselsSounds/Atlantis/cRadOpen.wav
+/Sound/_CustomVesselsSounds/Atlantis/countdown.wav
+/Sound/_CustomVesselsSounds/Atlantis/srb.wav
+/Sound/_CustomVesselsSounds/DG_S.cfg
+/Sound/_CustomVesselsSounds/DG_S/-10.wav
+/Sound/_CustomVesselsSounds/DG_S/-100.wav
+/Sound/_CustomVesselsSounds/DG_S/-1000.wav
+/Sound/_CustomVesselsSounds/DG_S/-20.wav
+/Sound/_CustomVesselsSounds/DG_S/-200.wav
+/Sound/_CustomVesselsSounds/DG_S/-2500.wav
+/Sound/_CustomVesselsSounds/DG_S/-30.wav
+/Sound/_CustomVesselsSounds/DG_S/-300.wav
+/Sound/_CustomVesselsSounds/DG_S/-40.wav
+/Sound/_CustomVesselsSounds/DG_S/-400.wav
+/Sound/_CustomVesselsSounds/DG_S/-50.wav
+/Sound/_CustomVesselsSounds/DG_S/-500.wav
+/Sound/_CustomVesselsSounds/DG_S/Hover.wav
+/Sound/_CustomVesselsSounds/DG_S/aircond.wav
+/Sound/_CustomVesselsSounds/DG_S/cGearDown.wav
+/Sound/_CustomVesselsSounds/DG_S/cGearMove.wav
+/Sound/_CustomVesselsSounds/DG_S/cGearUp.wav
+/Sound/_CustomVesselsSounds/DG_S/cHatchClose.wav
+/Sound/_CustomVesselsSounds/DG_S/cHatchMove.wav
+/Sound/_CustomVesselsSounds/DG_S/cHatchOpen.wav
+/Sound/_CustomVesselsSounds/DG_S/cInnerMove.wav
+/Sound/_CustomVesselsSounds/DG_S/cInnerOpen.wav
+/Sound/_CustomVesselsSounds/DG_S/cInnerclose.wav
+/Sound/_CustomVesselsSounds/DG_S/cLadderClose.wav
+/Sound/_CustomVesselsSounds/DG_S/cLadderMove.wav
+/Sound/_CustomVesselsSounds/DG_S/cLadderOpen.wav
+/Sound/_CustomVesselsSounds/DG_S/cNoseClose.wav
+/Sound/_CustomVesselsSounds/DG_S/cNoseMove.wav
+/Sound/_CustomVesselsSounds/DG_S/cNoseOpen.wav
+/Sound/_CustomVesselsSounds/DG_S/cOuterClose.wav
+/Sound/_CustomVesselsSounds/DG_S/cOuterMove.wav
+/Sound/_CustomVesselsSounds/DG_S/cOuterOpen.wav
+/Sound/_CustomVesselsSounds/DG_S/cRadClose.wav
+/Sound/_CustomVesselsSounds/DG_S/cRadMove.wav
+/Sound/_CustomVesselsSounds/DG_S/cRadOpen.wav
+/Sound/_CustomVesselsSounds/DG_S/cRetroMove.wav
+/Sound/_CustomVesselsSounds/DG_S/cSwitch.wav
+/Sound/_CustomVesselsSounds/DG_S/dSwitch.wav
+/Sound/_CustomVesselsSounds/DG_S/main.wav
+/Sound/_CustomVesselsSounds/DG_S/retro.wav
+/Sound/_CustomVesselsSounds/DG_S/rotation.wav
+/Sound/_CustomVesselsSounds/DG_S/translation.wav
+/Sound/_CustomVesselsSounds/DG_S_info.txt
+/Sound/_CustomVesselsSounds/DeltaGlider.cfg
+/Sound/_CustomVesselsSounds/DeltaGlider/-10.wav
+/Sound/_CustomVesselsSounds/DeltaGlider/-100.wav
+/Sound/_CustomVesselsSounds/DeltaGlider/-1000.wav
+/Sound/_CustomVesselsSounds/DeltaGlider/-20.wav
+/Sound/_CustomVesselsSounds/DeltaGlider/-200.wav
+/Sound/_CustomVesselsSounds/DeltaGlider/-2500.wav
+/Sound/_CustomVesselsSounds/DeltaGlider/-30.wav
+/Sound/_CustomVesselsSounds/DeltaGlider/-300.wav
+/Sound/_CustomVesselsSounds/DeltaGlider/-40.wav
+/Sound/_CustomVesselsSounds/DeltaGlider/-400.wav
+/Sound/_CustomVesselsSounds/DeltaGlider/-50.wav
+/Sound/_CustomVesselsSounds/DeltaGlider/-500.wav
+/Sound/_CustomVesselsSounds/DeltaGlider/Hover.wav
+/Sound/_CustomVesselsSounds/DeltaGlider/aircond.wav
+/Sound/_CustomVesselsSounds/DeltaGlider/cGearDown.wav
+/Sound/_CustomVesselsSounds/DeltaGlider/cGearMove.wav
+/Sound/_CustomVesselsSounds/DeltaGlider/cGearUp.wav
+/Sound/_CustomVesselsSounds/DeltaGlider/cHatchClose.wav
+/Sound/_CustomVesselsSounds/DeltaGlider/cHatchMove.wav
+/Sound/_CustomVesselsSounds/DeltaGlider/cHatchOpen.wav
+/Sound/_CustomVesselsSounds/DeltaGlider/cInnerMove.wav
+/Sound/_CustomVesselsSounds/DeltaGlider/cInnerOpen.wav
+/Sound/_CustomVesselsSounds/DeltaGlider/cInnerclose.wav
+/Sound/_CustomVesselsSounds/DeltaGlider/cLadderClose.wav
+/Sound/_CustomVesselsSounds/DeltaGlider/cLadderMove.wav
+/Sound/_CustomVesselsSounds/DeltaGlider/cLadderOpen.wav
+/Sound/_CustomVesselsSounds/DeltaGlider/cNoseClose.wav
+/Sound/_CustomVesselsSounds/DeltaGlider/cNoseMove.wav
+/Sound/_CustomVesselsSounds/DeltaGlider/cNoseOpen.wav
+/Sound/_CustomVesselsSounds/DeltaGlider/cOuterClose.wav
+/Sound/_CustomVesselsSounds/DeltaGlider/cOuterMove.wav
+/Sound/_CustomVesselsSounds/DeltaGlider/cOuterOpen.wav
+/Sound/_CustomVesselsSounds/DeltaGlider/cRadClose.wav
+/Sound/_CustomVesselsSounds/DeltaGlider/cRadMove.wav
+/Sound/_CustomVesselsSounds/DeltaGlider/cRadOpen.wav
+/Sound/_CustomVesselsSounds/DeltaGlider/cRetroMove.wav
+/Sound/_CustomVesselsSounds/DeltaGlider/cSwitch.wav
+/Sound/_CustomVesselsSounds/DeltaGlider/dSwitch.wav
+/Sound/_CustomVesselsSounds/DeltaGlider/retro.wav
+/Sound/_CustomVesselsSounds/DeltaGlider/rotation.wav
+/Sound/_CustomVesselsSounds/DeltaGlider/translation.wav
+/Sound/_CustomVesselsSounds/ProjectAlpha_ISS.cfg
+/Sound/_CustomVesselsSounds/ProjectAlpha_ISS/STS07.pkf
+/Sound/_CustomVesselsSounds/ProjectAlpha_ISS/aircond.wav
+/Sound/_CustomVesselsSounds/ShuttleA.cfg
+/Sound/_CustomVesselsSounds/ShuttleA/-10.wav
+/Sound/_CustomVesselsSounds/ShuttleA/-100.wav
+/Sound/_CustomVesselsSounds/ShuttleA/-1000.wav
+/Sound/_CustomVesselsSounds/ShuttleA/-20.wav
+/Sound/_CustomVesselsSounds/ShuttleA/-200.wav
+/Sound/_CustomVesselsSounds/ShuttleA/-2500.wav
+/Sound/_CustomVesselsSounds/ShuttleA/-30.wav
+/Sound/_CustomVesselsSounds/ShuttleA/-300.wav
+/Sound/_CustomVesselsSounds/ShuttleA/-40.wav
+/Sound/_CustomVesselsSounds/ShuttleA/-400.wav
+/Sound/_CustomVesselsSounds/ShuttleA/-50.wav
+/Sound/_CustomVesselsSounds/ShuttleA/-500.wav
+/Sound/_CustomVesselsSounds/ShuttleA/Hover.wav
+/Sound/_CustomVesselsSounds/ShuttleA/UserThr.wav
+/Sound/_CustomVesselsSounds/ShuttleA/aircond.wav
+/Sound/_CustomVesselsSounds/ShuttleA/cDoorMove.wav
+/Sound/_CustomVesselsSounds/ShuttleA/cGearDown.wav
+/Sound/_CustomVesselsSounds/ShuttleA/cGearMove.wav
+/Sound/_CustomVesselsSounds/ShuttleA/cGearUp.wav
+/Sound/_CustomVesselsSounds/ShuttleA/cInnerClose.wav
+/Sound/_CustomVesselsSounds/ShuttleA/cInnerOpen.wav
+/Sound/_CustomVesselsSounds/ShuttleA/cOuterClose.wav
+/Sound/_CustomVesselsSounds/ShuttleA/cOuterDoorMove.wav
+/Sound/_CustomVesselsSounds/ShuttleA/cOuterOpen.wav
+/Sound/_CustomVesselsSounds/ShuttleA/cPodForward.wav
+/Sound/_CustomVesselsSounds/ShuttleA/cPodMove.wav
+/Sound/_CustomVesselsSounds/ShuttleA/cPodRetro.wav
+/Sound/_CustomVesselsSounds/ShuttleA/cSwitch.wav
+/Sound/_CustomVesselsSounds/ShuttleA/gearmove.wav
+/Sound/_CustomVesselsSounds/ShuttleA/main.wav
+/Sound/_CustomVesselsSounds/ShuttleA/rotation.wav
+/Sound/_CustomVesselsSounds/ShuttleA/translation.wav
+/Sound/_CustomVesselsSounds/ShuttlePBSDKDemo.cfg
+/Sound/_CustomVesselsSounds/ShuttlePBSDKDemo/Hover_int.wav
+/Sound/_CustomVesselsSounds/ShuttlePBSDKDemo/KeyOnePressed.wav
+/Sound/_CustomVesselsSounds/ShuttlePBSDKDemo/KeyThreePressed.wav
+/Sound/_CustomVesselsSounds/ShuttlePBSDKDemo/KeyTwoPressed.wav
+/Sound/_CustomVesselsSounds/ShuttlePBSDKDemo/LaunchTime.wav
+/Sound/_CustomVesselsSounds/ShuttlePBSDKDemo/left.wav
+/Sound/_CustomVesselsSounds/ShuttlePBSDKDemo/my500meter.wav
+/Sound/_CustomVesselsSounds/ShuttlePBSDKDemo/myMainThrust.wav
+/Sound/_CustomVesselsSounds/ShuttlePBSDKDemo/myUfoSound.wav
+/Sound/_CustomVesselsSounds/ShuttlePBSDKDemo/myaircond.wav
+/Sound/_CustomVesselsSounds/ShuttlePBSDKDemo/myradar.wav
+/Sound/_CustomVesselsSounds/ShuttlePBSDKDemo/radvoice_1.wav
+/Sound/_CustomVesselsSounds/ShuttlePBSDKDemo/radvoice_10.wav
+/Sound/_CustomVesselsSounds/ShuttlePBSDKDemo/radvoice_100.wav
+/Sound/_CustomVesselsSounds/ShuttlePBSDKDemo/radvoice_2.wav
+/Sound/_CustomVesselsSounds/ShuttlePBSDKDemo/radvoice_200.wav
+/Sound/_CustomVesselsSounds/ShuttlePBSDKDemo/radvoice_25.wav
+/Sound/_CustomVesselsSounds/ShuttlePBSDKDemo/radvoice_3.wav
+/Sound/_CustomVesselsSounds/ShuttlePBSDKDemo/radvoice_4.wav
+/Sound/_CustomVesselsSounds/ShuttlePBSDKDemo/radvoice_5.wav
+/Sound/_CustomVesselsSounds/ShuttlePBSDKDemo/radvoice_50.wav
+/Sound/_CustomVesselsSounds/ShuttlePBSDKDemo/right.wav
+/Sound/_CustomVesselsSounds/ShuttlePBSDKDemo/rotation.wav
+/Sound/_CustomVesselsSounds/ShuttlePBSDKDemo/translation.wav
+/Sound/_CustomVesselsSounds/_How to Change vessel sound and options.txt
+/Sound/_CustomWindSounds/Earth_default1.wav
+/Sound/_CustomWindSounds/Earth_default2.wav
+/Sound/_CustomWindSounds/GenericBig_default.wav
+/Sound/_CustomWindSounds/GenericBig_default2.wav
+/Sound/_CustomWindSounds/GenericNormal_default.wav
+/Sound/_CustomWindSounds/Jupiter_default.wav
+/Sound/_CustomWindSounds/Neptune_default.wav
+/Sound/_CustomWindSounds/Venus_default.wav
+/Sound/_CustomWindSounds/_ADD WINDS DOCUMENTATION.txt
+/Sound/cfg/Editable_Advanced_Configuration.cfg
+/Sound/cfg/NoWelcome.cfg
+/Sound/cfg/OrbiterSound3.cfg
+/Sound/cfg/Radio.cfg
+/Sound/cfg/ig.tpc
+/Sound/cfg/ig1.tpc
+/Sound/cfg/ig3.tpc
+/Sound/cfg/jbls.tpc
+/Sound/cfg/ny.tpc
+/Sound/cfg/ny1.tpc
+/Sound/cfg/ob.tpc
+/Sound/cfg/upd.dat
+/Sound/cfg/wlcm.wav
+/Sound/version.txt
+/SoundConfig.exe
+/Config/GC/DG-S.cfg
+/Config/GC/DeltaGlider.cfg
+/Config/GC/Earth.atmo.cfg
+/Config/GC/Earth.atms.cfg
+/Config/GC/Jupiter.atmo.cfg
+/Config/GC/Jupiter.atms.cfg
+/Config/GC/Mars.atmo.cfg
+/Config/GC/Mars.atms.cfg
+/Config/GC/Moon.atmo.cfg
+/Config/GC/Moon.atms.cfg
+/Config/GC/Titan.atmo.cfg
+/Config/GC/Titan.atms.cfg
+/Config/GC/XR2Ravenstar.cfg
+/Config/MicroTex.cfg
+/Config/gcGUI.cfg
+/D3D9Client.cfg
+/Doc/D3D9Client.pdf
+/Meshes/D3D9Arrow.msh
+/Meshes/D3D9Sphere.msh
+/OrbiterSound_Log.txt
+/Orbitersdk/doc/D3D9GraphicsGuide.pdf
+/Orbitersdk/doc/gcAPI.chm
+/Orbitersdk/include/DrawAPI_doc.h
+/Orbitersdk/include/Sketchpad2.h
+/Orbitersdk/include/gcAPI.h
+/Orbitersdk/include/gcConst.h
+/Orbitersdk/lib/gcAPI.lib
+/Orbitersdk/samples/DX9ExtMFD/Bitmaps/bt_stick.bmp
+/Orbitersdk/samples/DX9ExtMFD/DX9ExtMFD.sln
+/Orbitersdk/samples/DX9ExtMFD/ExtMFD.cpp
+/Orbitersdk/samples/DX9ExtMFD/ExtMFD.rc
+/Orbitersdk/samples/DX9ExtMFD/ExtMFD.vcxproj
+/Orbitersdk/samples/DX9ExtMFD/MFDWindow.cpp
+/Orbitersdk/samples/DX9ExtMFD/MFDWindow.h
+/Orbitersdk/samples/DX9ExtMFD/resource.h
+/Orbitersdk/samples/GenericCamera/GenericCamera.rc
+/Orbitersdk/samples/GenericCamera/GenericCamera.sln
+/Orbitersdk/samples/GenericCamera/GenericCamera.vcxproj
+/Orbitersdk/samples/GenericCamera/GenericCamera.vcxproj.filters
+/Orbitersdk/samples/GenericCamera/MFD.cpp
+/Orbitersdk/samples/GenericCamera/MFD.h
+/Orbitersdk/samples/GenericCamera/Shell.cpp
+/Orbitersdk/samples/GenericCamera/Shell.h
+/Textures/D3D9/Icons18.png
+/Textures/D3D9/Icons28.png
+/Textures/D3D9/Icons36.png
+/Textures/D3D9/SketchpadTest.dds
+/Textures/D3D9/SubTitle18.png
+/Textures/D3D9/SubTitle28.png
+/Textures/D3D9/SubTitle36.png
+/Textures/D3D9/SubTitle56.png
+/Textures/D3D9CLUT.dds
+/Textures/D3D9Noise.dds
+/Textures/D3D9Ocean.dds
+/Textures/D3D9RwyLight.dds
+/Textures/Null.dds
+/Textures/Saturn_ring_2048.dds
+/Textures/Saturn_ring_4096.dds
+/Textures/Saturn_ring_8192.dds
+/Textures/cloud1_norm.dds
+/Textures/issbso2_transl.dds
+/Textures/issbso2_transm.dds
+/Textures/issbso_transl.dds
+/Textures/issbso_transm.dds
+/Textures/samples/Crosshairs.dds
+/keymap.cfg
+/Images/CurrentState.jpg
+/Device.dat
