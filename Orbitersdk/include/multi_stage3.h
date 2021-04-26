@@ -5,9 +5,9 @@
 #include "common_addon.h"
 #include "matrix.h"
 #include "vectors.h"
-#include <math.h>
-#include <stdio.h>
-#include <fstream.h>
+#include <cmath>
+#include <cstdio>
+#include <fstream>
 
 //const double G   = 9.80665;
 const double N   = 1.0;
@@ -27,22 +27,22 @@ inline double Mag(const VECTOR3 &a)
 }
 
 
-inline VECTOR3 &operator/= (VECTOR3 &a, double f)
-{
-	a.x /= f;
-	a.y /= f;
-	a.z /= f;
-	return a;
-}
-
-inline VECTOR3 operator/ (VECTOR3 &a, double f)
-{
-	VECTOR3 c;
-	c.x = a.x / f;
-	c.y = a.y / f;
-	c.z = a.z / f;
-	return c;
-}
+//inline VECTOR3 &operator/= (VECTOR3 &a, double f)
+//{
+//	a.x /= f;
+//	a.y /= f;
+//	a.z /= f;
+//	return a;
+//}
+//
+//inline VECTOR3 operator/ (VECTOR3 &a, double f)
+//{
+//	VECTOR3 c;
+//	c.x = a.x / f;
+//	c.y = a.y / f;
+//	c.z = a.z / f;
+//	return c;
+//}
 
 
 vector3 GetVesselHeading(VESSEL *vessel)//this is quite heavy. API could use a way to get orientation w.r.t. orbit
@@ -577,7 +577,7 @@ void Multi_Stage::Setup (double stage_sep_time)
 int Multi_Stage::SendMessage(const char* pszMessage, void* aMessage)
 {
 	MS_MSG* aMsg;
-	if (!strnicmp (pszMessage, "MS_MSG", 6) != 0) {
+	if (_strnicmp (pszMessage, "MS_MSG", 6) != 0) {
 		aMsg = (MS_MSG*)aMessage;
 		cStage->Message(this,aMsg->msg,aMsg->value);
 		return 1;

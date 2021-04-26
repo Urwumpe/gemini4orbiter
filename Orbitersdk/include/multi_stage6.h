@@ -27,7 +27,7 @@ typedef void *TEST_HANDLE;
 #define SM_CYVIRTUALSCREEN      79
 
 void errhandler(LPTSTR pszFile, HWND hwnd) {
-   sprintf(oapiDebugString(), "Error: %c120", pszFile);
+   sprintf(oapiDebugString(), "Error: %120s", pszFile);
 }
 
 

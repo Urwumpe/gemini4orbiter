@@ -1,0 +1,76 @@
+This is a config file with a series of bases representing the Mercury Tracking Network and active launch centers during the 1960's.
+
+Cape Canaveral,CAN
+Grand_Bahama,  BAH
+Grand_Turk,    TUR
+Bermuda        BER
+S_Atlantic     ATL
+Grand_Canary   CRY
+Kano           KNO
+Zanzibar       ZAN
+S_Indian       IND
+Muchea         MUC
+Woomera        WOM
+Canton         CTN
+Kauai          KAU
+Pt_Arguello    ARG
+Guaymas        GUA
+White_Sands    WSD
+Corpus_Christi CRI
+Eglin          EGL
+
+Custom Scenarios Involved Earth:1962
+Change This
+
+BEGIN_ENVIRONMENT
+  System Sol
+  Date MJD 30635.4
+END_ENVIRONMENT
+
+to this
+
+BEGIN_ENVIRONMENT
+  System Sol_1962
+  Date MJD 30635.4
+END_ENVIRONMENT
+
+
+Version 1.1
+*Thanks to Brad the LC14 mesh is updated
+
+Version 1.2
+*Added Vandenburg AFB and Texture
+
+Version 1.3
+*Thanks to Brad the LC19 mesh has been added.
+
+Version 1.4
+*Added Jose Luis Fernandez Diaz's Baikonur base however it was moved to it's correct location of 45 deg 55 minutes north 63 degrees 20 minutes east.
+*Added Mercury Recovery zone for 3 orbit mission
+
+Version 2.0
+*Added correction made by Brad Hodges
+*Canaveral has the LC 1 to 4 launch site added (4 early launch complexes clustered)
+*Added Kapustin Yar and Wallops Island
+*Added Sol_1962.cfg for custom scenario
+
+Version 2.5
+*Add LC5 mesh for redstone launches courtesy of John Graves.
+
+
+Version 2.6
+*Interim Release until Earth 1962 switches over to the new Canaveral layout.
+*Add Ground Cameras at Pad 19,14,5
+
+Version 2.7
+*Updated to the new canaveral tiles
+*Updated Cameras
+*Added Carriers to the Atlantic Recovery Zone and the Redstone Recovery Zone
+*Added Jim Williams updated Atlas and Redstone pad mesh
+
+Version 3.0
+*Brian Sikkema updated the base files for the new Orbiter 2006 base format
+*Replace my Vandenberg tile with Scott Conklin's (a.k.a. Usonian) Vandenberg tiles. Much more accurate.
+*Added launch pad and runway from Scott Conklin's Vandenberg added. 
+*Meshes are located in a 1962 directory under meshes and base config files have been updated.
+*Updated Earth 1962 physical parameters to match that of Orbiter.
