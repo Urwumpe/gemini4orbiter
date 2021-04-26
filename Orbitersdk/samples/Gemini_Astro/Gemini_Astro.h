@@ -2,7 +2,7 @@
 #define __GEMINI_ASTRO_H
 
 #include "../../include/orbitersdk.h"
-#include "../../include/multi_stage2.h"
+#include "../../include/multi_stage3.h"
 
 const VECTOR3 OFS_SEAT = _V(.1,.1,-.1);
 const VECTOR3 OFS_CHUTE = _V(0,.3,.25);
