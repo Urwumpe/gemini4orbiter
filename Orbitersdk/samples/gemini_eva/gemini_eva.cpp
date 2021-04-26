@@ -2,9 +2,10 @@
 // ORBITER vessel module: NASA Manned Manuveuring Unit (MMU)
 // ==============================================================
 
-#include "orbitersdk.h"
-#include "multi_stage2.h"
-#include <math.h>
+#include "../../include/OrbiterAPI.h"
+#include "../../include/VesselAPI.h"
+#include "../../include/multi_stage3.h"
+#include <cmath>
 
 const double TETHER_OPERATING_SPEED = 0.128;
 const double TETHER_MAX_ANGLE = RAD*90.0;
