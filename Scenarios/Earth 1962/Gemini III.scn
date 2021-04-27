@@ -3,8 +3,9 @@ Gus Grissom and John Young flight-tests the Gusmobile
 END_DESC
 
 BEGIN_ENVIRONMENT
-  System Sol_1962
+  System Sol
   Date MJD 38842.6000042940
+  Context Gemini
 END_ENVIRONMENT
 
 BEGIN_FOCUS
